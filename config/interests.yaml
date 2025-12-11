@@ -1,45 +1,79 @@
 feeds:
   # =================================================
-  # 1. LE CŒUR GCP & KUBERNETES
+  # 1. GCP & KUBERNETES CORE
   # =================================================
   - url: "https://cloudblog.withgoogle.com/products/containers-kubernetes/rss/"
     name: "☁️ GKE & Containers"
   - url: "https://cloudblog.withgoogle.com/rss/"
     name: "☁️ Google Cloud (General)"
   - url: "https://www.cncf.io/blog/feed/"
-    name: "☸️ CNCF Blog (Ecosystème)"
+    name: "☸️ CNCF Blog (Ecosystem)"
 
   # =================================================
-  # 2. TA STACK OPS (IaC, GitOps, Supply Chain)
+  # 2. OPS STACK (IaC, GitOps, Supply Chain)
   # =================================================
-  # Terraform Google Provider (Vital pour les mises à jour de ressources)
   - url: "https://github.com/hashicorp/terraform-provider-google/releases.atom"
-    name: "🏛️ TF Provider GCP"
-  # KCC (Config Connector)
+    name: "🏛️ Terraform GCP Release"
   - url: "https://github.com/GoogleCloudPlatform/k8s-config-connector/releases.atom"
     name: "🏛️ KCC Release"
-  # FluxCD
   - url: "https://github.com/fluxcd/flux2/releases.atom"
     name: "🛠️ FluxCD Release"
   - url: "https://fluxcd.io/blog/index.xml"
     name: "📝 FluxCD Blog"
+  # 2025 Essential: Automated dependency updates
+  - url: "https://github.com/renovatebot/renovate/releases.atom"
+    name: "🤖 Renovate Release"
 
   # =================================================
-  # 3. OBSERVABILITÉ & SRE (Datadog + Google SRE)
+  # 3. AI INFRASTRUCTURE (The "Runtime" on GKE)
+  # =================================================
+  # vLLM: The gold standard for serving Llama/Mistral on K8s
+  - url: "https://github.com/vllm-project/vllm/releases.atom"
+    name: "⚡ vLLM (Inference Engine)"
+  # Ray: The standard for scaling AI workloads on K8s
+  - url: "https://github.com/ray-project/ray/releases.atom"
+    name: "🚀 Ray (AI Scaling)"
+  # NVIDIA K8s Device Plugin: Critical for GPU nodes
+  - url: "https://github.com/NVIDIA/k8s-device-plugin/releases.atom"
+    name: "🟢 NVIDIA K8s Plugin"
+  # Model Context Protocol (MCP): The standard for Agents
+  - url: "https://github.com/model-context-protocol/specification/releases.atom"
+    name: "🔌 MCP Spec"
+
+  # =================================================
+  # 4. AI MODELS & LEADERS (The Source)
+  # =================================================
+  - url: "https://www.anthropic.com/index.xml"
+    name: "🧠 Anthropic (Claude)"
+  - url: "https://openai.com/news/rss.xml"
+    name: "🧠 OpenAI News"
+  - url: "https://ai.meta.com/blog/rss.xml"
+    name: "♾️ Meta AI (Llama)"
+  - url: "https://deepmind.google/blog/rss.xml"
+    name: "🧠 Google DeepMind"
+  - url: "https://huggingface.co/blog/feed.xml"
+    name: "🤗 Hugging Face Blog"
+
+  # =================================================
+  # 5. OBSERVABILITY & SRE
   # =================================================
   - url: "https://www.datadoghq.com/blog/feed.xml"
     name: "📊 Datadog Blog"
   - url: "https://sre.google/blog/rss.xml"
     name: "📈 Google SRE Blog"
+  - url: "https://opentelemetry.io/blog/index.xml"
+    name: "🔭 OpenTelemetry Blog"
 
   # =================================================
-  # 4. SÉCURITÉ GCP
+  # 6. SECURITY & PLATFORM
   # =================================================
   - url: "https://feeds.feedburner.com/GoogleOnlineSecurityBlog"
     name: "🛡️ Google Security"
+  - url: "https://backstage.io/blog/rss.xml"
+    name: "🎛️ Backstage IDP"
 
   # =================================================
-  # 5. AGREGATEURS (Filtrés pour GCP/Platform)
+  # 7. AGGREGATORS (Technical Community)
   # =================================================
   - url: "https://www.reddit.com/r/googlecloud/top/.rss?t=week"
     name: "🗣️ r/GoogleCloud"
@@ -47,15 +81,18 @@ feeds:
     name: "🗣️ r/DevOps"
   - url: "https://www.reddit.com/r/PlatformEngineering/top/.rss?t=week"
     name: "🏗️ r/PlatformEngineering"
+  # THE technical sub for AI Infra (Hardware, Quantization, Serving)
+  - url: "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=week"
+    name: "🦙 r/LocalLLaMA (AI Infra)"
 
   # =================================================
-  # 6. TA VEILLE IA (Stack 2025)
+  # 8. GOOGLE NEWS RADAR (Emerging Topics)
   # =================================================
-  - url: "https://news.google.com/rss/search?q=Gemini+2.5+OR+Claude+3.5+OR+%22Vertex+AI%22+OR+Llama+AND+GKE+when:1d&hl=en-US&gl=US&ceid=US:en"
-    name: "🧠 AI Ops Radar"
+  - url: "https://news.google.com/rss/search?q=(GKE+OR+Kubernetes)+AND+(Agentic+OR+MCP+OR+RAG+OR+Vector+OR+GPU+OR+TPU)+when:1d&hl=en-US&gl=US&ceid=US:en"
+    name: "📡 AI Infra Watch"
 
 # =================================================
-# LE FILTRE GCP & PLATFORM
+# FILTERS — OPTIMIZED 2025
 # =================================================
 filters:
   must_include_one_of:
@@ -67,10 +104,11 @@ filters:
     - "BigQuery"
     - "Anthos"
     - "Config Connector"
+    - "Config Sync"
     - "Google Cloud"
     - "GCP"
     
-    # --- Kubernetes Ecosystem ---
+    # --- Kubernetes & Stack ---
     - "Kubernetes"
     - "K8s"
     - "Helm"
@@ -78,41 +116,60 @@ filters:
     - "Istio"
     - "Cilium"
     - "Gateway API"
-    
-    # --- Ops Tooling ---
     - "Terraform"
     - "Flux"
-    - "FluxCD"
     - "GitOps"
     - "Backstage"
-    - "Platform Engineering"
-    - "IDP"
+    - "Renovate"
+    
+    # --- AI INFRASTRUCTURE (Your new perimeter) ---
+    - "vLLM"         # Serving engine
+    - "Ray"          # Distributed compute
+    - "Inference"    # Serving
+    - "RAG"          # Retrieval Augmented Gen
+    - "Vector"       # Vector DBs (pgvector...)
+    - "Quantization" # Optimization (AWQ, GGUF)
+    - "GPU"          # Hardware
+    - "TPU"          # Google Hardware
+    - "H100"         # Nvidia Hardware
+    - "LLMOps"
+    - "Model Context Protocol"
+    - "MCP"
+    
+    # --- Models & Agents ---
+    - "Gemini"
+    - "Claude"
+    - "Llama"
+    - "Mistral"
+    - "Agentic"
+    - "Agent"
     
     # --- Obs & Sec ---
-    - "Prometheus"
     - "OpenTelemetry"
     - "Datadog"
-    - "FinOps"   # Important pour GCP billing
-    - "Cost"
+    - "FinOps"
     - "Zero Trust"
     - "Supply chain"
 
   exclude:
-    # --- FILTRE ANTI-BRUIT CONCURRENT ---
+    # --- COMPETITOR NOISE FILTER ---
     - "AWS"
     - "Amazon"
     - "Azure"
-    - "Microsoft"
+    - "Microsoft" 
     - "EKS"
     - "AKS"
     - "Lambda"
     - "EC2"
-    - "Fargate"
-    - "Bicep" # IaC Azure
-    - "CloudFormation" # IaC AWS
+    - "Bicep"
+    - "CloudFormation"
     
-    # --- BRUIT CLASSIQUE ---
+    # --- GENERIC NOISE ---
     - "Stock"
     - "Revenue"
     - "Beginner"
     - "Tutorial"
+    - "Course"
+    - "Certification"
+    - "Opinion"
+    - "Review"
