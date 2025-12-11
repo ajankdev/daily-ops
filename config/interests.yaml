@@ -1,34 +1,118 @@
-# Tes sources de veille (RSS & Atom)
 feeds:
+  # =================================================
+  # 1. LE CŒUR GCP & KUBERNETES
+  # =================================================
   - url: "https://cloudblog.withgoogle.com/products/containers-kubernetes/rss/"
-    name: "GCP Containers & K8s"
-  - url: "https://cloudblog.withgoogle.com/products/ai-machine-learning/rss/"
-    name: "GCP AI & ML"
-  - url: "https://github.com/GoogleCloudPlatform/k8s-config-connector/releases.atom"
-    name: "KCC Releases"
-  - url: "https://modelcontextprotocol.io/feed.xml" # Exemple, à vérifier selon dispo
-    name: "MCP Updates"
-  - url: "https://www.datadoghq.com/blog/feed.xml"
-    name: "Datadog Blog"
+    name: "☁️ GKE & Containers"
+  - url: "https://cloudblog.withgoogle.com/rss/"
+    name: "☁️ Google Cloud (General)"
+  - url: "https://www.cncf.io/blog/feed/"
+    name: "☸️ CNCF Blog (Ecosystème)"
 
-# Tes filtres (Si un article contient ces mots, on le garde)
+  # =================================================
+  # 2. TA STACK OPS (IaC, GitOps, Supply Chain)
+  # =================================================
+  # Terraform Google Provider (Vital pour les mises à jour de ressources)
+  - url: "https://github.com/hashicorp/terraform-provider-google/releases.atom"
+    name: "🏛️ TF Provider GCP"
+  # KCC (Config Connector)
+  - url: "https://github.com/GoogleCloudPlatform/k8s-config-connector/releases.atom"
+    name: "🏛️ KCC Release"
+  # FluxCD
+  - url: "https://github.com/fluxcd/flux2/releases.atom"
+    name: "🛠️ FluxCD Release"
+  - url: "https://fluxcd.io/blog/index.xml"
+    name: "📝 FluxCD Blog"
+
+  # =================================================
+  # 3. OBSERVABILITÉ & SRE (Datadog + Google SRE)
+  # =================================================
+  - url: "https://www.datadoghq.com/blog/feed.xml"
+    name: "📊 Datadog Blog"
+  - url: "https://sre.google/blog/rss.xml"
+    name: "📈 Google SRE Blog"
+
+  # =================================================
+  # 4. SÉCURITÉ GCP
+  # =================================================
+  - url: "https://feeds.feedburner.com/GoogleOnlineSecurityBlog"
+    name: "🛡️ Google Security"
+
+  # =================================================
+  # 5. AGREGATEURS (Filtrés pour GCP/Platform)
+  # =================================================
+  - url: "https://www.reddit.com/r/googlecloud/top/.rss?t=week"
+    name: "🗣️ r/GoogleCloud"
+  - url: "https://www.reddit.com/r/devops/top/.rss?t=week"
+    name: "🗣️ r/DevOps"
+  - url: "https://www.reddit.com/r/PlatformEngineering/top/.rss?t=week"
+    name: "🏗️ r/PlatformEngineering"
+
+  # =================================================
+  # 6. TA VEILLE IA (Stack 2025)
+  # =================================================
+  - url: "https://news.google.com/rss/search?q=Gemini+2.5+OR+Claude+3.5+OR+%22Vertex+AI%22+OR+Llama+AND+GKE+when:1d&hl=en-US&gl=US&ceid=US:en"
+    name: "🧠 AI Ops Radar"
+
+# =================================================
+# LE FILTRE GCP & PLATFORM
+# =================================================
 filters:
   must_include_one_of:
+    # --- GCP Core ---
     - "GKE"
     - "Autopilot"
+    - "Cloud Run"
+    - "Vertex"
+    - "BigQuery"
+    - "Anthos"
     - "Config Connector"
-    - "KCC"
+    - "Google Cloud"
+    - "GCP"
+    
+    # --- Kubernetes Ecosystem ---
+    - "Kubernetes"
+    - "K8s"
+    - "Helm"
+    - "Kustomize"
+    - "Istio"
+    - "Cilium"
+    - "Gateway API"
+    
+    # --- Ops Tooling ---
     - "Terraform"
-    - "Vertex AI"
-    - "LLMOps"
-    - "MCP"
-    - "Model Context Protocol"
-    - "Agent"
-    - "Vector"
-    - "RAG"
-  
-  # Exclusion pour éviter le bruit (marketing pur, finance...)
+    - "Flux"
+    - "FluxCD"
+    - "GitOps"
+    - "Backstage"
+    - "Platform Engineering"
+    - "IDP"
+    
+    # --- Obs & Sec ---
+    - "Prometheus"
+    - "OpenTelemetry"
+    - "Datadog"
+    - "FinOps"   # Important pour GCP billing
+    - "Cost"
+    - "Zero Trust"
+    - "Supply chain"
+
   exclude:
+    # --- FILTRE ANTI-BRUIT CONCURRENT ---
+    - "AWS"
+    - "Amazon"
+    - "Azure"
+    - "Microsoft"
+    - "EKS"
+    - "AKS"
+    - "Lambda"
+    - "EC2"
+    - "Fargate"
+    - "Bicep" # IaC Azure
+    - "CloudFormation" # IaC AWS
+    
+    # --- BRUIT CLASSIQUE ---
     - "Stock"
     - "Revenue"
-    - "Quarterly Results"
+    - "Beginner"
+    - "Tutorial"
