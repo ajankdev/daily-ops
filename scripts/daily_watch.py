@@ -6,7 +6,7 @@ import os
 import google.generativeai as genai
 import time
 
-# 1. On se connecte à Gemini avec la clé cachée dans GitHub
+# 1. Configuration Gemini
 genai.configure(api_key=os.environ.get("GEMINI_API_KEY"))
 model = genai.GenerativeModel('gemini-1.5-flash')
 
@@ -26,24 +26,25 @@ def analyze_with_gemini(title, content):
         2. Une phrase sur l'impact pour l'infra ou les coûts.
         """
         
-        # On demande à l'IA
         response = model.generate_content(prompt)
-        time.sleep(1) # Petite pause pour être gentil avec l'API gratuite
+        time.sleep(1) 
         return response.text.strip()
     except Exception as e:
         return f"Erreur IA : {str(e)}"
 
-# 2. On charge ta configuration
+# 2. Chargement Config
 with open('config/interests.yaml', 'r') as f:
     config = yaml.safe_load(f)
 
 found_articles = []
 print("🚀 Démarrage de la veille Gemini...")
 
-# 3. On parcours tes liens RSS
+# 3. Parcours des flux
 for feed in config['feeds']:
     try:
         d = feedparser.parse(feed['url'])
+        print(f"Checking {feed['name']}...") # Log pour voir l'avancement
+        
         for entry in d.entries:
             title = entry.title
             summary = entry.get('summary', '')
@@ -58,7 +59,6 @@ for feed in config['feeds']:
             except:
                 continue
 
-            # Vérification simple des mots clés
             txt = (title + " " + summary).lower()
             keywords = config['filters']['must_include_one_of']
             
@@ -66,7 +66,6 @@ for feed in config['feeds']:
                 print(f"🔍 Analyse IA en cours : {title}")
                 analysis = analyze_with_gemini(title, summary)
                 
-                # Si Gemini ne dit pas SKIP, on garde !
                 if "SKIP" not in analysis:
                     found_articles.append({
                         'source': feed['name'],
@@ -75,16 +74,21 @@ for feed in config['feeds']:
                         'text': analysis
                     })
     except Exception as e:
-        print(f"Erreur sur {feed['name']}")
+        print(f"Erreur sur {feed['name']}: {e}")
 
-# 4. On met à jour le README
+# 4. Mise à jour du README
 if found_articles:
     date = datetime.datetime.now().strftime('%d/%m/%Y')
     new_content = f"\n### 🇬 Veille du {date}\n\n"
     
     for art in found_articles:
         new_content += f"#### {art['title']} ({art['source']})\n"
-        new_content += f"> {art['text'].replace(chr(10), '\n> ')}\n\n"
+        
+        # --- CORRECTION ICI : On formate le texte AVANT de l'insérer ---
+        # On remplace les sauts de ligne par des chevrons de citation Markdown
+        formatted_text = art['text'].replace('\n', '\n> ')
+        
+        new_content += f"> {formatted_text}\n\n"
         new_content += f"[Lire l'article]({art['link']})\n---\n"
     
     if os.path.exists("README.md"):
@@ -95,6 +99,6 @@ if found_articles:
         
     with open("README.md", "w") as f:
         f.write("# Ma Veille Ops\n" + new_content + "\n" + old.replace("# Ma Veille Ops\n", ""))
-    print("✅ Fini !")
+    print("✅ Fini ! README mis à jour.")
 else:
     print("Rien de nouveau.")
