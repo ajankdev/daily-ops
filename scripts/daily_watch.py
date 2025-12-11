@@ -53,10 +53,9 @@ def analyze_with_groq(title, content):
     Analyze this input (Title: "{title}") and classify it into one of my specific interest areas:
 
     1. [GCP_K8S_CORE]: GKE, Autopilot, Cloud Run, CNCF Ecosystem.
-    2. [OPS_STACK]: Terraform/IaC, FluxCD/GitOps, Renovate.
+    2. [OPS_STACK]: Terraform/IaC, FluxCD/GitOps.
     3. [AI_INFRA]: vLLM, Ray, NVIDIA GPUs, MCP, RAG, Vector DBs.
     4. [AI_MODELS]: Anthropic (Claude), OpenAI, Meta (Llama), Google (Gemini).
-    5. [OBS_SEC]: Datadog/OTel, SRE, Cloud Security.
 
     INSTRUCTIONS:
     - FILTERING: If generic/marketing/irrelevant: Reply "SKIP".
