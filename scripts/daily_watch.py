@@ -4,31 +4,45 @@ import datetime
 from dateutil import parser
 import os
 from google import genai
-from google.genai import types
 import time
 
-# Configuration Gemini
+# --- CONFIGURATION (SDK 2025) ---
 client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
 
 def analyze_with_gemini(title, content):
     """
-    Analyzes content with robust Rate Limit handling (Backoff strategy).
+    Analyzes content using Gemini 2.0/1.5 with robust Rate Limit handling.
     """
+    # Dynamic Date Context: "December 2025", "January 2026", etc.
+    current_context = datetime.datetime.now().strftime('%B %Y')
+
     prompt = f"""
-    Act as a Senior Platform Engineer (GCP/Kubernetes).
-    Analyze this news item:
-    Title: {title}
-    Content: {content}
+    Act as a Staff Platform Engineer (GCP/K8s/AI) working in {current_context}.
+    Analyze this input (Title: "{title}") and classify it into one of my specific interest areas:
 
-    Reply STRICTLY using this format:
-    - If marketing/irrelevant: Reply "SKIP"
-    - If relevant (Tech, Infra, AI Ops):
-      1. Technical summary (1 sentence).
-      2. Operational impact (Cost/Performance).
+    1. [GCP_K8S_CORE]: GKE, Autopilot, Cloud Run, CNCF Ecosystem.
+    2. [OPS_STACK]: Terraform/IaC, FluxCD/GitOps, Renovate.
+    3. [AI_INFRA]: vLLM, Ray, NVIDIA GPUs, MCP, RAG, Vector DBs.
+    4. [AI_MODELS]: Anthropic (Claude), OpenAI, Meta (Llama), Google (Gemini).
+    5. [OBS_SEC]: Datadog/OTel, SRE, Cloud Security.
+
+    INSTRUCTIONS:
+    - FILTERING: If generic/marketing/irrelevant: Reply "SKIP".
+    - ANALYSIS: If relevant, map to category.
+    
+    Reply STRICTLY format:
+    **Category:** [TAG]
+    **Summary:** <Technical summary>
+    **Impact:** <Ops Impact>
+    
+    Input Content:
+    {content}
     """
 
-    # We try models. Note: 'gemini-1.5-flash' is often more generous with quotas than 2.0
-    models = ['gemini-2.5-flash', 'gemini-1.5-flash', 'gemini-1.5-pro']
+    # MODEL PRIORITY LIST
+    # 1. gemini-2.0-flash-exp : SOTA.
+    # 2. gemini-1.5-flash : Stable fallback.
+    models = ['gemini-2.0-flash-exp', 'gemini-1.5-flash']
     
     for model_name in models:
         try:
@@ -40,35 +54,37 @@ def analyze_with_gemini(title, content):
             
         except Exception as e:
             error_msg = str(e)
-            # Detect Rate Limit (429) or Overloaded model (503)
-            if "429" in error_msg or "RESOURCE_EXHAUSTED" in error_msg or "Too Many Requests" in error_msg:
-                print(f"    [!] Quota exceeded (429) on {model_name}. Sleeping 30s...")
-                time.sleep(30) # Aggressive wait for Free Tier refill
-                
+            
+            # Handle Rate Limits (429)
+            if "429" in error_msg or "RESOURCE_EXHAUSTED" in error_msg:
+                print(f"    [!] Quota (429) on {model_name}. Sleeping 30s...")
+                time.sleep(30)
                 try:
-                    print(f"    [R] Retrying {model_name}...")
-                    response = client.models.generate_content(model=model_name, contents=prompt)
+                    print(f"    [R] Retry {model_name}...")
+                    response = client.models.generate_content(
+                        model=model_name,
+                        contents=prompt
+                    )
                     return response.text.strip()
-                except Exception as e2:
-                    print(f"    [X] Retry failed. Moving to next model.")
-                    continue 
+                except:
+                    pass # Failover to next model
             
             print(f"    [!] Error on {model_name}: {error_msg}")
             continue
             
-    return "AI Error: All models failed or rate limited."
+    return "AI Error: All models failed."
 
 # --- MAIN ENGINE ---
 with open('config/interests.yaml', 'r') as f:
     config = yaml.safe_load(f)
 
 found_articles = []
-print("[*] Starting Daily Watch (Rate-Limit Safe Mode)...")
+print("[*] Starting Daily Watch...")
 
 for feed in config['feeds']:
     try:
-        # Clean feed name (remove emojis for logs if any remain)
-        feed_name = feed['name'].encode('ascii', 'ignore').decode('ascii').strip()
+        # Feed name clean up
+        feed_name = feed['name'].strip()
         print(f"Checking {feed_name}...")
         
         d = feedparser.parse(feed['url'])
@@ -78,7 +94,6 @@ for feed in config['feeds']:
             summary = entry.get('summary', '')
             link = entry.link
             
-            # Date Filter (3 days)
             try:
                 published = parser.parse(entry.get('published', str(datetime.datetime.now())))
                 published = published.replace(tzinfo=None)
@@ -87,7 +102,6 @@ for feed in config['feeds']:
             except:
                 continue
 
-            # Keyword Filter
             txt = (title + " " + summary).lower()
             keywords = config['filters']['must_include_one_of']
             
@@ -105,33 +119,52 @@ for feed in config['feeds']:
                             'text': analysis
                         })
                     
-                    # SYSTEMATIC PAUSE
-                    # Even on success, we wait 10s to respect the RPM (Requests Per Minute) limit
-                    # of the Free Tier.
+                    # Pause indispensable pour l'API
                     time.sleep(10)
 
     except Exception as e:
-        print(f"Error processing feed {feed['name']}: {e}")
+        print(f"Error feed {feed['name']}: {e}")
 
-# --- README GENERATION ---
+# --- DOCUMENT GENERATION ---
 if found_articles:
-    date = datetime.datetime.now().strftime('%Y-%m-%d')
-    new_content = f"\n### Daily Digest: {date}\n\n"
+    current_date = datetime.datetime.now().strftime('%Y-%m-%d')
+    markdown_content = f"# Daily Digest: {current_date}\n\n"
     
     for art in found_articles:
-        new_content += f"#### {art['title']} ({art['source']})\n"
+        markdown_content += f"### {art['title']}\n"
+        markdown_content += f"**Source:** {art['source']}\n\n"
         clean_text = art['text'].replace('\n', '\n> ')
-        new_content += f"> {clean_text}\n\n"
-        new_content += f"[Read Article]({art['link']})\n---\n"
+        markdown_content += f"> {clean_text}\n\n"
+        markdown_content += f"[Read Article]({art['link']})\n\n"
+        markdown_content += "---\n"
+
+    os.makedirs("archives", exist_ok=True)
+    archive_filename = f"archives/{current_date}.md"
     
-    if os.path.exists("README.md"):
-        with open("README.md", "r") as f:
-            old = f.read()
-    else:
-        old = "# Platform & AI Watch\n"
-        
-    with open("README.md", "w") as f:
-        f.write("# Platform & AI Watch\n" + new_content + "\n" + old.replace("# Platform & AI Watch\n", ""))
-    print("[+] README updated successfully.")
+    with open(archive_filename, "w", encoding="utf-8") as f:
+        f.write(markdown_content)
+    print(f"[+] Archive created: {archive_filename}")
+
+    readme_header = f"""# Platform & AI Watch
+
+**Last Update:** {current_date}
+
+## Today's Highlights
+"""
+    history_section = "\n## Recent History\n"
+    try:
+        archive_files = sorted([f for f in os.listdir("archives") if f.endswith(".md")], reverse=True)
+        for filename in archive_files[:10]: 
+            date_label = filename.replace(".md", "")
+            if date_label != current_date:
+                history_section += f"- [{date_label}](archives/{filename})\n"
+    except:
+        history_section = ""
+
+    full_readme = readme_header + "\n" + markdown_content.replace("# Daily Digest:", "").strip() + "\n" + history_section
+    
+    with open("README.md", "w", encoding="utf-8") as f:
+        f.write(full_readme)
+    print("[+] README updated.")
 else:
     print("[-] No relevant news found today.")
