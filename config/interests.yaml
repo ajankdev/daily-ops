@@ -1,0 +1,34 @@
+# Tes sources de veille (RSS & Atom)
+feeds:
+  - url: "https://cloudblog.withgoogle.com/products/containers-kubernetes/rss/"
+    name: "GCP Containers & K8s"
+  - url: "https://cloudblog.withgoogle.com/products/ai-machine-learning/rss/"
+    name: "GCP AI & ML"
+  - url: "https://github.com/GoogleCloudPlatform/k8s-config-connector/releases.atom"
+    name: "KCC Releases"
+  - url: "https://modelcontextprotocol.io/feed.xml" # Exemple, à vérifier selon dispo
+    name: "MCP Updates"
+  - url: "https://www.datadoghq.com/blog/feed.xml"
+    name: "Datadog Blog"
+
+# Tes filtres (Si un article contient ces mots, on le garde)
+filters:
+  must_include_one_of:
+    - "GKE"
+    - "Autopilot"
+    - "Config Connector"
+    - "KCC"
+    - "Terraform"
+    - "Vertex AI"
+    - "LLMOps"
+    - "MCP"
+    - "Model Context Protocol"
+    - "Agent"
+    - "Vector"
+    - "RAG"
+  
+  # Exclusion pour éviter le bruit (marketing pur, finance...)
+  exclude:
+    - "Stock"
+    - "Revenue"
+    - "Quarterly Results"
