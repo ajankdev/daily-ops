@@ -7,7 +7,6 @@ from groq import Groq
 import time
 
 # --- CONFIGURATION ---
-# Documentation: https://console.groq.com/docs/quickstart
 client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
 HISTORY_FILE = "history.txt"
 
@@ -22,11 +21,31 @@ def save_history(urls):
         for url in urls:
             f.write(f"{url}\n")
 
+def get_entry_date(entry):
+    """
+    Tries to extract the date from multiple standard RSS fields.
+    GitHub Releases often use 'updated' instead of 'published'.
+    """
+    # List of potential date fields in order of priority
+    date_fields = ['published', 'updated', 'created', 'date']
+    
+    for field in date_fields:
+        date_str = entry.get(field)
+        if date_str:
+            try:
+                dt = parser.parse(date_str)
+                # Remove timezone info for comparison
+                return dt.replace(tzinfo=None)
+            except:
+                continue
+                
+    # If absolutely no date is found, return None (do NOT default to now)
+    return None
+
 def analyze_with_groq(title, content):
     """
-    Analyzes content using Llama 3.3 70B via Groq (Ultra fast inference).
+    Analyzes content using Llama 3.3 70B via Groq.
     """
-    # Dynamic Context
     current_context = datetime.datetime.now().strftime('%B %Y')
 
     prompt = f"""
@@ -52,30 +71,19 @@ def analyze_with_groq(title, content):
     {content}
     """
 
-    # MODEL: Llama 3.3 70B (Versatile) 
-    # Le meilleur rapport qualité/vitesse actuel
     model_name = "llama-3.3-70b-versatile"
     
     try:
         chat_completion = client.chat.completions.create(
-            messages=[
-                {
-                    "role": "user",
-                    "content": prompt,
-                }
-            ],
+            messages=[{"role": "user", "content": prompt}],
             model=model_name,
-            temperature=0.1, # Low temp for factual summaries
+            temperature=0.1,
         )
         return chat_completion.choices[0].message.content.strip()
-        
     except Exception as e:
-        # Rate Limit Handling (Rare with Groq but good practice)
         if "429" in str(e):
-            print(f"    [!] Groq Rate Limit. Sleeping 10s...")
             time.sleep(10)
-            return "AI Error" # On skip pour cette fois
-            
+            return "AI Error"
         print(f"    [!] Error: {str(e)}")
         return "AI Error"
 
@@ -87,7 +95,7 @@ processed_urls = load_history()
 new_urls_to_save = []
 found_articles = []
 
-print("[*] Starting Daily Watch (Groq Engine)...")
+print("[*] Starting Daily Watch (Strict Date Mode)...")
 
 for feed in config['feeds']:
     try:
@@ -96,8 +104,8 @@ for feed in config['feeds']:
         
         d = feedparser.parse(feed['url'])
         
-        # Limit entries per feed
-        for entry in d.entries[:5]:
+        # Limit to checking top 10 items (optimization)
+        for entry in d.entries[:10]:
             title = entry.title
             link = entry.link
             
@@ -105,13 +113,21 @@ for feed in config['feeds']:
             if link in processed_urls:
                 continue
 
-            # 2. Date Filter
-            try:
-                published = parser.parse(entry.get('published', str(datetime.datetime.now())))
-                published = published.replace(tzinfo=None)
-                if (datetime.datetime.now() - published).days > 3:
-                    continue
-            except:
+            # 2. STRICT DATE FILTER
+            article_date = get_entry_date(entry)
+            
+            if article_date is None:
+                # No date found? We skip it to avoid polluting with old stuff
+                # Unless it's a very specific feed, it's better to miss one than have duplicates
+                continue
+                
+            # Calculate age in days
+            delta_days = (datetime.datetime.now() - article_date).days
+            
+            # If older than 3 days, SKIP.
+            if delta_days > 3:
+                # Debug log to ensure we know why we skip
+                # print(f"  [Skip] Old article ({delta_days} days): {title[:30]}")
                 continue
 
             # 3. Keyword Filter
@@ -120,11 +136,10 @@ for feed in config['feeds']:
             
             if any(k.lower() in txt for k in keywords):
                 if not any(ex.lower() in txt for ex in config['filters']['exclude']):
-                    print(f"  [>] Analyzing: {title[:60]}...")
+                    print(f"  [NEW] Analyzing ({delta_days}d ago): {title[:60]}...")
                     
                     analysis = analyze_with_groq(title, entry.get('summary', ''))
                     
-                    # Mark processed immediately
                     new_urls_to_save.append(link)
                     processed_urls.add(link)
                     
@@ -136,7 +151,6 @@ for feed in config['feeds']:
                             'text': analysis
                         })
                     
-                    # Micro-pause (Groq is fast)
                     time.sleep(2)
 
     except Exception as e:
