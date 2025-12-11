@@ -3,17 +3,30 @@ import yaml
 import datetime
 from dateutil import parser
 import os
-from google import genai
+from groq import Groq
 import time
 
-# --- CONFIGURATION (SDK 2025) ---
-client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
+# --- CONFIGURATION ---
+# Documentation: https://console.groq.com/docs/quickstart
+client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
+HISTORY_FILE = "history.txt"
 
-def analyze_with_gemini(title, content):
+def load_history():
+    if not os.path.exists(HISTORY_FILE):
+        return set()
+    with open(HISTORY_FILE, "r", encoding="utf-8") as f:
+        return set(line.strip() for line in f.readlines())
+
+def save_history(urls):
+    with open(HISTORY_FILE, "a", encoding="utf-8") as f:
+        for url in urls:
+            f.write(f"{url}\n")
+
+def analyze_with_groq(title, content):
     """
-    Analyzes content using Gemini 2.0/1.5 with robust Rate Limit handling.
+    Analyzes content using Llama 3.3 70B via Groq (Ultra fast inference).
     """
-    # Dynamic Date Context: "December 2025", "January 2026", etc.
+    # Dynamic Context
     current_context = datetime.datetime.now().strftime('%B %Y')
 
     prompt = f"""
@@ -39,61 +52,60 @@ def analyze_with_gemini(title, content):
     {content}
     """
 
-    # MODEL PRIORITY LIST
-    # 1. gemini-2.0-flash-exp : SOTA.
-    # 2. gemini-1.5-flash : Stable fallback.
-    models = ['gemini-2.0-flash-exp', 'gemini-1.5-flash']
+    # MODEL: Llama 3.3 70B (Versatile) 
+    # Le meilleur rapport qualité/vitesse actuel
+    model_name = "llama-3.3-70b-versatile"
     
-    for model_name in models:
-        try:
-            response = client.models.generate_content(
-                model=model_name,
-                contents=prompt
-            )
-            return response.text.strip()
+    try:
+        chat_completion = client.chat.completions.create(
+            messages=[
+                {
+                    "role": "user",
+                    "content": prompt,
+                }
+            ],
+            model=model_name,
+            temperature=0.1, # Low temp for factual summaries
+        )
+        return chat_completion.choices[0].message.content.strip()
+        
+    except Exception as e:
+        # Rate Limit Handling (Rare with Groq but good practice)
+        if "429" in str(e):
+            print(f"    [!] Groq Rate Limit. Sleeping 10s...")
+            time.sleep(10)
+            return "AI Error" # On skip pour cette fois
             
-        except Exception as e:
-            error_msg = str(e)
-            
-            # Handle Rate Limits (429)
-            if "429" in error_msg or "RESOURCE_EXHAUSTED" in error_msg:
-                print(f"    [!] Quota (429) on {model_name}. Sleeping 30s...")
-                time.sleep(30)
-                try:
-                    print(f"    [R] Retry {model_name}...")
-                    response = client.models.generate_content(
-                        model=model_name,
-                        contents=prompt
-                    )
-                    return response.text.strip()
-                except:
-                    pass # Failover to next model
-            
-            print(f"    [!] Error on {model_name}: {error_msg}")
-            continue
-            
-    return "AI Error: All models failed."
+        print(f"    [!] Error: {str(e)}")
+        return "AI Error"
 
 # --- MAIN ENGINE ---
 with open('config/interests.yaml', 'r') as f:
     config = yaml.safe_load(f)
 
+processed_urls = load_history()
+new_urls_to_save = []
 found_articles = []
-print("[*] Starting Daily Watch...")
+
+print("[*] Starting Daily Watch (Groq Engine)...")
 
 for feed in config['feeds']:
     try:
-        # Feed name clean up
         feed_name = feed['name'].strip()
         print(f"Checking {feed_name}...")
         
         d = feedparser.parse(feed['url'])
         
-        for entry in d.entries:
+        # Limit entries per feed
+        for entry in d.entries[:5]:
             title = entry.title
-            summary = entry.get('summary', '')
             link = entry.link
             
+            # 1. Deduplication
+            if link in processed_urls:
+                continue
+
+            # 2. Date Filter
             try:
                 published = parser.parse(entry.get('published', str(datetime.datetime.now())))
                 published = published.replace(tzinfo=None)
@@ -102,14 +114,19 @@ for feed in config['feeds']:
             except:
                 continue
 
-            txt = (title + " " + summary).lower()
+            # 3. Keyword Filter
+            txt = (title + " " + entry.get('summary', '')).lower()
             keywords = config['filters']['must_include_one_of']
             
             if any(k.lower() in txt for k in keywords):
                 if not any(ex.lower() in txt for ex in config['filters']['exclude']):
                     print(f"  [>] Analyzing: {title[:60]}...")
                     
-                    analysis = analyze_with_gemini(title, summary)
+                    analysis = analyze_with_groq(title, entry.get('summary', ''))
+                    
+                    # Mark processed immediately
+                    new_urls_to_save.append(link)
+                    processed_urls.add(link)
                     
                     if "SKIP" not in analysis and "AI Error" not in analysis:
                         found_articles.append({
@@ -119,11 +136,15 @@ for feed in config['feeds']:
                             'text': analysis
                         })
                     
-                    # Pause indispensable pour l'API
-                    time.sleep(10)
+                    # Micro-pause (Groq is fast)
+                    time.sleep(2)
 
     except Exception as e:
         print(f"Error feed {feed['name']}: {e}")
+
+# Save History
+if new_urls_to_save:
+    save_history(new_urls_to_save)
 
 # --- DOCUMENT GENERATION ---
 if found_articles:
@@ -167,4 +188,4 @@ if found_articles:
         f.write(full_readme)
     print("[+] README updated.")
 else:
-    print("[-] No relevant news found today.")
+    print("[-] No new relevant articles found today.")

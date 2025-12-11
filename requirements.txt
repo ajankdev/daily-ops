@@ -2,4 +2,4 @@ feedparser
 pyyaml
 requests
 python-dateutil
-google-genai
+groq
