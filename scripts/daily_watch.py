@@ -3,79 +3,98 @@ import yaml
 import datetime
 from dateutil import parser
 import os
+import google.generativeai as genai
+import time
 
-# 1. Charger la config
+# 1. On se connecte à Gemini avec la clé cachée dans GitHub
+genai.configure(api_key=os.environ.get("GEMINI_API_KEY"))
+model = genai.GenerativeModel('gemini-1.5-flash')
+
+def analyze_with_gemini(title, content):
+    """Demande à Gemini si c'est intéressant pour un DevOps GCP"""
+    try:
+        prompt = f"""
+        Agis comme un Senior Platform Engineer expert en Google Cloud.
+        Analyse cette news :
+        Titre: {title}
+        Contenu: {content}
+
+        Si c'est du marketing ou hors sujet (pas de lien avec GKE, Terraform, Vertex, Ops), réponds juste "SKIP".
+        
+        Si c'est technique et pertinent, réponds en français avec :
+        1. Une phrase sur la nouveauté technique.
+        2. Une phrase sur l'impact pour l'infra ou les coûts.
+        """
+        
+        # On demande à l'IA
+        response = model.generate_content(prompt)
+        time.sleep(1) # Petite pause pour être gentil avec l'API gratuite
+        return response.text.strip()
+    except Exception as e:
+        return f"Erreur IA : {str(e)}"
+
+# 2. On charge ta configuration
 with open('config/interests.yaml', 'r') as f:
     config = yaml.safe_load(f)
 
 found_articles = []
+print("🚀 Démarrage de la veille Gemini...")
 
-# 2. Parcourir les flux RSS
-print("🔍 Recherche d'articles...")
+# 3. On parcours tes liens RSS
 for feed in config['feeds']:
     try:
         d = feedparser.parse(feed['url'])
-        print(f"  Checking {feed['name']}...")
-        
         for entry in d.entries:
-            # Récupération titre + résumé
             title = entry.title
-            summary = entry.get('summary', '') or entry.get('description', '')
+            summary = entry.get('summary', '')
             link = entry.link
             
-            # Gestion de la date (ignorer articles de + de 48h)
+            # Gestion date (3 jours max)
             try:
-                published = parser.parse(entry.get('published', entry.get('updated', str(datetime.datetime.now()))))
-                # Convertir en timezone naive pour comparaison simple
+                published = parser.parse(entry.get('published', str(datetime.datetime.now())))
                 published = published.replace(tzinfo=None)
-                if (datetime.datetime.now() - published).days > 2:
+                if (datetime.datetime.now() - published).days > 3:
                     continue
             except:
-                continue # Skip si pas de date
+                continue
+
+            # Vérification simple des mots clés
+            txt = (title + " " + summary).lower()
+            keywords = config['filters']['must_include_one_of']
             
-            content_to_check = (title + " " + summary).lower()
-            
-            # 3. Filtrage (Logique Platform Engineer)
-            # Doit contenir au moins un mot clé
-            if any(k.lower() in content_to_check for k in config['filters']['must_include_one_of']):
-                # Ne doit PAS contenir de mot exclu
-                if not any(ex.lower() in content_to_check for ex in config['filters']['exclude']):
+            if any(k.lower() in txt for k in keywords):
+                print(f"🔍 Analyse IA en cours : {title}")
+                analysis = analyze_with_gemini(title, summary)
+                
+                # Si Gemini ne dit pas SKIP, on garde !
+                if "SKIP" not in analysis:
                     found_articles.append({
                         'source': feed['name'],
                         'title': title,
                         'link': link,
-                        'date': published.strftime("%Y-%m-%d")
+                        'text': analysis
                     })
     except Exception as e:
-        print(f"Erreur sur {feed['name']}: {e}")
+        print(f"Erreur sur {feed['name']}")
 
-# 4. Générer le Markdown
-print(f"✅ {len(found_articles)} articles pertinents trouvés.")
-
+# 4. On met à jour le README
 if found_articles:
-    # Trier par date
-    found_articles.sort(key=lambda x: x['date'], reverse=True)
+    date = datetime.datetime.now().strftime('%d/%m/%Y')
+    new_content = f"\n### 🇬 Veille du {date}\n\n"
     
-    new_content = f"\n### 📅 Veille du {datetime.datetime.now().strftime('%d/%m/%Y')}\n\n"
     for art in found_articles:
-        new_content += f"- **[{art['source']}]** [{art['title']}]({art['link']})\n"
+        new_content += f"#### {art['title']} ({art['source']})\n"
+        new_content += f"> {art['text'].replace(chr(10), '\n> ')}\n\n"
+        new_content += f"[Lire l'article]({art['link']})\n---\n"
     
-    # Lire le README actuel
     if os.path.exists("README.md"):
         with open("README.md", "r") as f:
-            current_content = f.read()
+            old = f.read()
     else:
-        current_content = "# Ma Veille IA & Platform Ops\n\n"
+        old = "# Ma Veille Ops\n"
         
-    # Insérer en haut (après le titre)
-    header = "# Ma Veille IA & Platform Ops\n"
-    if header in current_content:
-        updated_content = current_content.replace(header, header + new_content)
-    else:
-        updated_content = header + new_content + "\n" + current_content
-
-    # Sauvegarder
     with open("README.md", "w") as f:
-        f.write(updated_content)
+        f.write("# Ma Veille Ops\n" + new_content + "\n" + old.replace("# Ma Veille Ops\n", ""))
+    print("✅ Fini !")
 else:
-    print("Rien de nouveau aujourd'hui.")
+    print("Rien de nouveau.")
