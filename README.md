@@ -1,5 +1,18 @@
 # Ma Veille Ops
 
+### 🇬 Veille Gemini 2.5 du 11/12/2025
+
+#### AlphaEvolve on Google Cloud: AI for agentic discovery and optimization (GCP AI & ML)
+> 1. AlphaEvolve est un agent AI propulsé par Gemini, disponible sur Google Cloud en private preview, qui utilise un cadre évolutif pour générer et optimiser des algorithmes complexes, notamment pour l'amélioration de l'efficacité des datacenters et la performance des workloads ML.
+> 2. Impact opérationnel :
+>     *   **Coût**: Réduction potentielle significative des coûts d'infrastructure en optimisant l'utilisation des ressources (ex: gain de 0.7% sur les ressources de calcul globales des datacenters Google), ce qui se traduit par une consommation moindre de compute sur GKE/GCP.
+>     *   **Perf**: Amélioration des performances des workloads critiques (ex: accélération de 23% d'un kernel pour l'entraînement de Gemini, réduisant le temps total de 1%), permettant des exécutions plus rapides et une meilleure réactivité des systèmes hébergés.
+>     *   **Maintenance**: Réduit l'effort manuel nécessaire pour l'optimisation continue d'algorithmes complexes d'orchestration ou de traitement, en déchargeant cette tâche à l'IA, bien que la définition et le suivi des métriques d'évaluation deviennent cruciaux.
+
+[Lire l'article](https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-on-google-cloud/)
+---
+
+
 ### 🇬 Veille du 11/12/2025
 
 #### How we built a multi-agent system for superior business forecasting (GCP AI & ML)
