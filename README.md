@@ -1,0 +1,330 @@
+# Platform & AI Watch
+
+**Last Update:** 2025-12-11
+
+## Today's Highlights
+
+2025-12-11
+
+### Expanding the Vision: Welcoming Palo Alto Networks to Google Unified Security Recommended
+**Source:** Google Cloud (General)
+
+> **Category:** [AI_INFRA]
+> **Summary:** Google Cloud announces the addition of Palo Alto Networks to the Google Unified Security Recommended program, enhancing the AI-powered security ecosystem with validated integrations across critical domains, including endpoint, network, and access security. This partnership accelerates threat detection, investigation, and response, and enables a unified security posture for customers.
+> **Impact:** The integration of Palo Alto Networks' security platforms with Google Security Operations simplifies security operations, accelerates risk mitigation, and enables organizations to confidently pursue their cloud and AI transformation journeys, with comprehensive protection across network, SASE, and endpoint domains.
+
+[Read Article](https://cloud.google.com/blog/products/identity-security/expanding-the-google-unified-security-recommended-program/)
+
+---
+### How Virgin Media O2 uses data contracts to enable trusted data and scalable AI products
+**Source:** Google Cloud (General)
+
+> **Category:** [GCP_K8S_CORE]
+> **Summary:** Virgin Media O2 has developed a robust approach to address data quality and governance challenges using "data contracts" on Google Cloud. Data contracts serve as a machine-readable agreement between data producers and users, defining data characteristics, schema, semantics, quality metrics, and Service Level Objectives (SLOs). They utilize Dataplex Universal Catalog to operationalize these contracts, enabling continuous enforcement and real-time validation of data quality.
+> **Impact:** This approach has a significant impact on operations, as it allows for scalable, automated data quality management, and enables the creation of trusted and scalable AI products. The use of data contracts and Dataplex Universal Catalog provides a foundation for building reliable AI products at scale, while also ensuring compliance and governance. The automation of data quality management and the use of machine-readable contracts reduce the risk of non-compliance and improve the overall efficiency of data management.
+
+[Read Article](https://cloud.google.com/blog/products/data-analytics/vmo2-uses-data-contracts-to-build-scalable-ai-and-data-products/)
+
+---
+### Optimizing Kyverno CLI performance: My LFX mentorship journey
+**Source:** CNCF Blog (Ecosystem)
+
+> **Category:** [GCP_K8S_CORE]
+> **Summary:** The input discusses the author's experience with Kyverno, a CNCF project, and their journey with LFX Mentorship, which is related to optimizing Kyverno CLI performance, indicating a focus on Kubernetes and potentially Config management.
+> **Impact:** Optimizing Kyverno CLI performance can improve the efficiency of Kubernetes configuration management, which can have a positive impact on cluster operations and automation, aligning with the GCP_K8S_CORE interest area.
+
+[Read Article](https://www.cncf.io/blog/2025/12/10/optimizing-kyverno-cli-performance-my-lfx-mentorship-journey/)
+
+---
+### Harbor: Enterprise-grade container registry for modern private cloud
+**Source:** CNCF Blog (Ecosystem)
+
+> **Category:** [GCP_K8S_CORE]
+> **Summary:** Harbor is an enterprise-grade container registry that can be used in modern private cloud environments, potentially integrating with Kubernetes (K8s) to address challenges associated with public image registries, such as rate limits and costs.
+> **Impact:** Adoption of Harbor could simplify container management, reduce costs, and improve security for organizations using Kubernetes, potentially integrating with GKE or Anthos for a more comprehensive containerization solution.
+
+[Read Article](https://www.cncf.io/blog/2025/12/08/harbor-enterprise-grade-container-registry-for-modern-private-cloud/)
+
+---
+### Istio at KubeCon + CloudNativeCon North America 2025: Community highlights and project progress
+**Source:** CNCF Blog (Ecosystem)
+
+> **Category:** [GCP_K8S_CORE]
+> **Summary:** The input discusses Istio's presence at KubeCon + CloudNativeCon North America 2025, highlighting its relevance to the cloud native ecosystem, which includes Kubernetes (K8s) and by extension, Google Kubernetes Engine (GKE) as part of the GCP offerings.
+> **Impact:** As a platform engineer focusing on GCP and K8s, understanding the advancements and community engagement around Istio can impact the design and implementation of service meshes in cloud-native applications, potentially influencing the choice of networking and security solutions in GKE or Anthos environments.
+
+[Read Article](https://www.cncf.io/blog/2025/12/08/istio-at-kubecon-cloudnativecon-north-america-2025-community-highlights-and-project-progress/)
+
+---
+### v7.13.0
+**Source:** Terraform GCP Release
+
+> **Category:** [OPS_STACK]
+> **Summary:** The input content describes the release notes for Terraform Google Provider version 7.13.0, which includes various updates, improvements, and bug fixes for Google Cloud resources managed through Terraform. The updates cover a wide range of Google Cloud services, including AlloyDB, Private CA, Cloud Quotas, Data Loss Prevention, and more. New resources have been added, such as `google_ces_app_version` and `google_compute_organization_security_policy`, and existing resources have been improved with additional fields and functionality.
+> **Impact:** The updates in this release may impact operations for users managing Google Cloud resources with Terraform, as some changes may require adjustments to existing configurations or scripts. However, the improvements and bug fixes should overall enhance the stability and functionality of Terraform deployments on Google Cloud.
+
+[Read Article](https://github.com/hashicorp/terraform-provider-google/releases/tag/v7.13.0)
+
+---
+### 42.46.0
+**Source:** Renovate Release
+
+> **Category:** [OPS_STACK]
+> **Summary:** The Renovatebot tool has released version 42.46.0, which includes a feature to support moving changes to different target branches in Gerrit and a bug fix to only add count if there are dependencies in the dashboard.
+> **Impact:** This update may impact operations by providing more flexibility in managing changes and dependencies, potentially streamlining the development and deployment process for teams using Renovatebot and Gerrit.
+
+[Read Article](https://github.com/renovatebot/renovate/releases/tag/42.46.0)
+
+---
+### 42.45.0
+**Source:** Renovate Release
+
+> **Category:** [OPS_STACK]
+> **Summary:** The Renovatebot tool has released version 42.45.0, which includes new features such as allowing template fields in `allowedVersions` for config, adding an Appium monorepo preset, and introducing replacements for `ojdbc-to-ojdbc11` and `ojdbc10-to-ojdbc11`. These updates can be utilized in infrastructure as code (IaC) workflows, potentially integrating with tools like Terraform or FluxCD.
+> **Impact:** The updates in Renovatebot 42.45.0 can improve automation and dependency management in projects, potentially reducing manual effort and increasing efficiency in operations and development workflows that rely on IaC and GitOps practices.
+
+[Read Article](https://github.com/renovatebot/renovate/releases/tag/42.45.0)
+
+---
+### 42.44.1
+**Source:** Renovate Release
+
+> **Category:** [OPS_STACK]
+> **Summary:** The input content refers to the release notes of Renovatebot, a tool used for automating dependency updates, with version 42.44.1. This release includes bug fixes, such as not using the `--minimal-changes` option with `lockFileMaintenance` for Composer and adding a `postUpdateOption` to prevent its use. Additionally, it includes a fix to log when limits are reached.
+> **Impact:** This update may impact operations by improving the reliability and logging of dependency updates, potentially reducing errors and making it easier to track and manage updates, which is relevant to the OPS_STACK category, specifically in the context of GitOps and automation tools like FluxCD.
+
+[Read Article](https://github.com/renovatebot/renovate/releases/tag/42.44.1)
+
+---
+### 42.44.0
+**Source:** Renovate Release
+
+> **Category:** [OPS_STACK]
+> **Summary:** The Renovatebot has released version 42.44.0, which includes an update to the base-image Docker tag to v12.15.0. This change is related to dependency management and infrastructure as code (IaC) practices, specifically using Docker for containerization.
+> **Impact:** This update may impact operations by requiring adjustments to existing Docker configurations or dependencies, potentially affecting the stability and compatibility of applications using Renovatebot.
+
+[Read Article](https://github.com/renovatebot/renovate/releases/tag/42.44.0)
+
+---
+### 42.43.0
+**Source:** Renovate Release
+
+> **Category:** [OPS_STACK]
+> **Summary:** The release 42.43.0 of Renovatebot includes updates to dependencies such as ghcr.io/renovatebot/base-image docker tag, esbuild, and node, as well as bug fixes for comment normalization in Gerrit and updates to the lookup feature with the addition of maxMajorIncrement.
+> **Impact:** This update may impact operations by requiring adjustments to dependency versions and potentially affecting the automation of dependency updates in projects using Renovatebot, particularly those integrated with GitOps tools like FluxCD or Terraform for infrastructure management.
+
+[Read Article](https://github.com/renovatebot/renovate/releases/tag/42.43.0)
+
+---
+### 42.42.5
+**Source:** Renovate Release
+
+> **Category:** [OPS_STACK]
+> **Summary:** The input describes a release note for Renovatebot, a dependency management tool, with updates including code refactoring for standardizing dashboard section headings and a build system update to node.js version v24.12.0.
+> **Impact:** The update may impact operations by requiring adjustments to existing dependency management configurations or workflows, particularly for users relying on specific node.js versions or customized dashboard layouts.
+
+[Read Article](https://github.com/renovatebot/renovate/releases/tag/42.42.5)
+
+---
+### 42.42.4
+**Source:** Renovate Release
+
+> **Category:** [OPS_STACK]
+> **Summary:** The input content appears to be a changelog for Renovatebot, a dependency update tool, specifically highlighting the update of the @renovatebot/pgp dependency to version 1.2.2. This is related to Infrastructure as Code (IaC) and GitOps, which are key components of the OPS_STACK category.
+> **Impact:** The update may impact the dependency management and automation workflows for projects using Renovatebot, potentially requiring adjustments to Terraform or FluxCD configurations to ensure compatibility with the updated dependency.
+
+[Read Article](https://github.com/renovatebot/renovate/releases/tag/42.42.4)
+
+---
+### 42.42.3
+**Source:** Renovate Release
+
+> **Category:** [OPS_STACK]
+> **Summary:** The input content appears to be a changelog for the Renovatebot tool, specifically version 42.42.3, released on December 10, 2025. The updates include bug fixes, such as updating the ghcr.io/renovatebot/base-image Docker tag to v12.13.9, and miscellaneous chores like updating the dependency vite to v7.2.10.
+> **Impact:** This update may impact operations by requiring adjustments to dependency versions and potentially affecting the stability of the Renovatebot tool, which is used for automated dependency management. As a Staff Platform Engineer, it's essential to review and assess the impact of these changes on the existing infrastructure and workflows, particularly those related to Terraform/IaC, FluxCD/GitOps, and Gitlab/GitlabDuo.
+
+[Read Article](https://github.com/renovatebot/renovate/releases/tag/42.42.3)
+
+---
+### 42.42.2
+**Source:** Renovate Release
+
+> **Category:** [OPS_STACK]
+> **Summary:** The input content appears to be a changelog for Renovatebot, a dependency management tool, with updates to its base-image Docker tag and Python Docker digest. These updates are related to infrastructure and dependency management, which falls under the OPS_STACK category.
+> **Impact:** The updates may impact the operations and maintenance of systems that rely on Renovatebot for dependency management, potentially requiring adjustments to Docker images and configurations.
+
+[Read Article](https://github.com/renovatebot/renovate/releases/tag/42.42.2)
+
+---
+### 42.42.1
+**Source:** Renovate Release
+
+> **Category:** [OPS_STACK]
+> **Summary:** The input content describes a release note for Renovatebot, a dependency management tool, version 42.42.1. The release includes bug fixes, such as formatting issues for Bitbucket, and miscellaneous updates, including dependency updates for codecov-action, python:3.14 docker digest, and vitest monorepo.
+> **Impact:** The updates in this release may impact operations by improving the stability and reliability of dependency management, particularly for teams using Renovatebot with Bitbucket, codecov-action, or other affected dependencies. This may also have implications for teams using Terraform/IaC or GitOps tools, as Renovatebot is often used in conjunction with these technologies.
+
+[Read Article](https://github.com/renovatebot/renovate/releases/tag/42.42.1)
+
+---
+### Introducing GPT-5.2
+**Source:** OpenAI News
+
+> **Category:** [AI_MODELS]
+> **Summary:** GPT-5.2 is a new, advanced language model from OpenAI, featuring state-of-the-art reasoning, long-context understanding, coding, and vision capabilities, suitable for professional work and available through ChatGPT and the OpenAI API.
+> **Impact:** The introduction of GPT-5.2 may require updates to existing workflows and integrations that utilize OpenAI models, potentially leading to improved performance and reliability in applications that leverage these capabilities.
+
+[Read Article](https://openai.com/index/introducing-gpt-5-2)
+
+---
+### OpenAI co-founds Agentic AI Foundation, donates AGENTS.md
+**Source:** OpenAI News
+
+> **Category:** [AI_MODELS]
+> **Summary:** OpenAI has co-founded the Agentic AI Foundation, a Linux Foundation project, and donated the AGENTS.md framework to promote open and interoperable standards for safe agentic AI, indicating a move towards collaborative development and standardization in the AI industry.
+> **Impact:** This development may lead to increased adoption of open standards for agentic AI, potentially influencing the design and implementation of AI models and systems, including those from other major players like Anthropic, Meta, and Google, and could have a significant impact on the future of AI development and safety.
+
+[Read Article](https://openai.com/index/agentic-ai-foundation)
+
+---
+### New in llama.cpp: Model Management
+**Source:** Hugging Face Blog
+
+> **Category:** [AI_MODELS]
+> **Summary:** The input mentions "llama.cpp" which is related to Meta's Llama model, indicating a focus on AI model management, specifically concerning the Llama model's implementation or updates in C++.
+> **Impact:** This could impact the development, deployment, or maintenance of AI models, particularly those based on or interacting with the Llama model, potentially influencing the performance, efficiency, or capabilities of AI-driven applications or services.
+
+[Read Article](https://huggingface.co/blog/ggml-org/model-management-in-llamacpp)
+
+---
+### Calling New Contributors - Help Us Improve the OpenTelemetry Onboarding Experience
+**Source:** OpenTelemetry Blog
+
+> **Category:** [GCP_K8S_CORE]
+> **Summary:** The input discusses OpenTelemetry, an open-source observability framework, and its onboarding experience for new contributors. OpenTelemetry is closely related to CNCF (Cloud Native Computing Foundation) ecosystem, which is a key component of the GCP_K8S_CORE category.
+> **Impact:** Improving the onboarding experience for OpenTelemetry contributors can have a positive impact on the adoption and development of the project, which in turn can benefit the broader CNCF ecosystem and users of GKE (Google Kubernetes Engine) and other Kubernetes distributions.
+
+[Read Article](https://opentelemetry.io/blog/2025/calling-new-contributors/)
+
+---
+### Process for terminating users with access to GCP
+**Source:** r/GoogleCloud
+
+> **Category:** [GCP_K8S_CORE]
+> **Summary:** The problem revolves around terminating users with access to Google Cloud Platform (GCP) while ensuring they cannot cause harm before their Google Workspace (GWS) account is suspended. The solution involves changing the Organizational Unit (OU) configuration within GWS and disabling the Google Cloud service for the specific OU, which immediately revokes access to GCP.
+> **Impact:** High operational impact as it directly affects access control and security within GCP, particularly during sensitive user termination processes, ensuring that ex-employees cannot access or manipulate company resources after termination.
+
+[Read Article](https://www.reddit.com/r/googlecloud/comments/1pje2kx/process_for_terminating_users_with_access_to_gcp/)
+
+---
+### I removed myself as the ONLY Billing Admin on my Google Cloud account. Support says they can’t restore it. Any way out?
+**Source:** r/GoogleCloud
+
+> **Category:** GCP_K8S_CORE
+> **Summary:** The user accidentally removed themselves as the only Billing Admin on their Google Cloud account, resulting in a locked account with no active Billing Admin. Google Cloud support is unable to restore the role due to security restrictions, and the user is seeking a way to regain Billing Admin access or delete the old billing account.
+> **Impact:** High operational impact, as the user is unable to manage their billing account, and the account is stuck in a locked state, requiring the creation of a new billing account to continue using Google Cloud services.
+
+[Read Article](https://www.reddit.com/r/googlecloud/comments/1pi8be7/i_removed_myself_as_the_only_billing_admin_on_my/)
+
+---
+### CDKTF is abandoned.
+**Source:** r/DevOps
+
+> **Category:** [OPS_STACK]
+> **Summary:** CDKTF (Cloud Development Kit for Terraform) has been abandoned by HashiCorp, with its GitHub repository archived. The author expresses disappointment with the technical implementation, feeling it fell short of expectations and was limited compared to alternatives like Pulumi.
+> **Impact:** The abandonment of CDKTF may impact organizations that have integrated it into their architecture, requiring them to reassess their infrastructure as code (IaC) strategy and potentially migrate to alternative solutions like Pulumi or other Terraform-based tools.
+
+[Read Article](https://www.reddit.com/r/devops/comments/1pj6732/cdktf_is_abandoned/)
+
+---
+### Setting up a Linux server for production. What do you actually do in the real world?
+**Source:** r/DevOps
+
+> **Category:** [OPS_STACK]
+> **Summary:** The input discusses setting up a Linux server for production, focusing on various aspects such as security, user access management, deployment workflow, monitoring, backups, database setup, and more. It inquires about real-world practices and tools used for these tasks, including Terraform/IaC, GitOps, and other DevOps-related technologies.
+> **Impact:** The discussion has a significant impact on operations, as it covers essential topics for ensuring the reliability, security, and maintainability of a production Linux server. The answers and experiences shared can help inform best practices and tool choices for DevOps and infrastructure management.
+
+[Read Article](https://www.reddit.com/r/devops/comments/1ph5lut/setting_up_a_linux_server_for_production_what_do/)
+
+---
+### New to platform engineering
+**Source:** r/PlatformEngineering
+
+> **Category:** [OPS_STACK]
+> **Summary:** The input is a request for tips on excelling as a platform engineer, with a background in security compliance and cloud security in GCP, including experience with IAM and Terraform. The user is looking for foundational knowledge to grow in their new role as a platform engineer in GCP.
+> **Impact:** The user's experience with Terraform and GCP is relevant to the OPS_STACK category, and their new role as a platform engineer will likely involve working with infrastructure as code (IaC) tools, GitOps, and other technologies in this category, making it a good starting point for growth and learning.
+
+[Read Article](https://www.reddit.com/r/platformengineering/comments/1pimizq/new_to_platform_engineering/)
+
+---
+### I'm calling these people out right now.
+**Source:** r/LocalLLaMA
+
+> **Category:** [AI_MODELS]
+> **Summary:** The input content appears to be a post from the LocalLLaMA subreddit, where the author is expressing gratitude towards several individuals who have made significant contributions to the community, particularly in the area of quantization and fine-tuning of AI models, including GGUF, AWQ, and GPTQ quants.
+> **Impact:** The post highlights the importance of community-driven efforts in advancing AI model development, specifically in the context of LLaMA models, and acknowledges the contributions of key individuals in the field, which may have an impact on the development and optimization of AI models in the future.
+
+[Read Article](https://www.reddit.com/r/LocalLLaMA/comments/1phjxca/im_calling_these_people_out_right_now/)
+
+---
+### Mistral AI drops 3x as many LLMs in a single week as OpenAI did in 6 years
+**Source:** r/LocalLLaMA
+
+> **Category:** [AI_MODELS]
+> **Summary:** Mistral AI has released a large number of language models, including coding models, reasoning models, and instruct models, with parameter sizes ranging from 3B to 675B. These models are available under various licenses, including Apache 2.0 and modified MIT licenses.
+> **Impact:** The release of these models by Mistral AI could have a significant impact on the AI landscape, potentially challenging the dominance of larger companies like OpenAI. The availability of these models under open licenses could also accelerate innovation and adoption of AI technologies, particularly in the area of large language models (LLMs).
+
+[Read Article](https://www.reddit.com/r/LocalLLaMA/comments/1pj8kb6/mistral_ai_drops_3x_as_many_llms_in_a_single_week/)
+
+---
+### After 1 year of slowly adding GPUs, my Local LLM Build is Complete - 8x3090 (192GB VRAM) 64-core EPYC Milan 250GB RAM
+**Source:** r/LocalLLaMA
+
+> **Category:** [AI_INFRA]
+> **Summary:** The user has built a local LLM (Large Language Model) system with 8x NVIDIA 3090 GPUs, 64-core EPYC Milan processor, and 250GB RAM. The system is powered by daisy-chained 1500W and 1000W PSUs and has been running stable with GPU temps not exceeding 70*C. The user has loaded GLM 4.5 air Q6_K GGUF model using llama.cpp and achieved ~49 t/s.
+> **Impact:** The user's build demonstrates the feasibility of running large language models on local hardware, potentially reducing dependence on cloud services. The use of 8 GPUs enables tensor parallelism, which can improve model performance. The user's experience and lessons learned can inform the design and optimization of similar AI infrastructure setups.
+
+[Read Article](https://www.reddit.com/r/LocalLLaMA/comments/1phcyvk/after_1_year_of_slowly_adding_gpus_my_local_llm/)
+
+---
+### Google Cloud Announces Model Context Protocol Support for Google Services - HPCwire
+**Source:** AI Infra Watch
+
+> **Category:** [AI_INFRA]
+> **Summary:** Google Cloud has announced support for Model Context Protocol, which enables the integration of AI models with various Google services, potentially simplifying the deployment and management of AI infrastructure.
+> **Impact:** This development may improve the operational efficiency of AI workflows on Google Cloud, allowing for more seamless interactions between AI models and other Google services, and potentially reducing the complexity of AI infrastructure management.
+
+[Read Article](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGx5SWdheFVMeW1pUjgtOUZOWk80VFFjZ0hrSmlPVU8wMVdvdHFITFY3SG5jczV0eGIxV3d5SEVtMTltWXphSFVfVDA5c0pfUHBsektRVlJ1SUZQbnVqNkctNU9EQUpFSWhLZzYzeUJXNGMtd3F6SzZOM19YeUpaTzh1amMtV0d3ODhMQkh1YXZwRjNGRF9RZy1ScGZWUWtjdlZraVgxMjZGX1VyYlpGeWlsSFZwMTUwbGFoWGRna2E?oc=5)
+
+---
+### Google Cloud offers managed MCP servers for BigQuery - Techzine Global
+**Source:** AI Infra Watch
+
+> **Category:** [AI_INFRA]
+> **Summary:** Google Cloud is now offering managed MCP (Multi-Chip Package) servers for BigQuery, which can enhance the performance and efficiency of BigQuery workloads by leveraging specialized hardware.
+> **Impact:** This development can significantly impact operations by providing a managed service for MCP servers, potentially reducing the administrative burden and allowing for more efficient use of resources for BigQuery workloads, especially those involving complex data processing and analytics.
+
+[Read Article](https://news.google.com/rss/articles/CBMipwFBVV95cUxQd1FGU3E4TWlRb1cyRlc0R0N3THdWQXN6N19obzFNZE9mejNXLVN3NVZiMEVhZm5oRDRiUm9BMGxtWHdIc00wUmxzS3NQdUVBZFpSN3BqOG5aSkEyS1ZuMjJHOUUtbjlaZXhhbXVJWkoya1Nua3pGc1JwQ0lna0cxTmUtbXNzR0lPWkpadmZGbWhDN2sxbGVKTDlBdDlJRzA0YS1ZVmdzaw?oc=5)
+
+---
+### Why Open Platforms Are the Future of Kubernetes Deployments - The New Stack
+**Source:** AI Infra Watch
+
+> **Category:** [GCP_K8S_CORE]
+> **Summary:** The article discusses the importance of open platforms in Kubernetes deployments, highlighting the benefits of flexibility, customizability, and community-driven innovation. Although the title does not explicitly mention GCP or Anthos, the topic of open platforms is closely related to the CNCF ecosystem and Kubernetes, which is a core component of GKE and Anthos.
+> **Impact:** As a Staff Platform Engineer, understanding the shift towards open platforms in Kubernetes deployments can inform strategic decisions about cluster management, configuration, and deployment strategies, potentially impacting the design and implementation of GKE, Anthos, or other Kubernetes-based solutions.
+
+[Read Article](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTDkxSDFpMmotQVhxSlVfcnVMaU1ka29jeWlDYlVJb3pSTV9nakpRcUxoank1ME05cFZqZnk0b2g2dG1yYkhuWXZUMnJZaTZNZWVVcnRWZE0xbUhzb1I1ckZjT3ZOcE5hOHJPci0zTlNjeEFIUGtDZW9tUmFYX0Jvd3hRZnVmaUFoTUFr?oc=5)
+
+---
+### Google Launches Mcp Servers to Connect AI Agents to Cloud Services - Editorialge
+**Source:** AI Infra Watch
+
+> **Category:** [AI_INFRA]
+> **Summary:** Google has launched MCP (Molecular Circuitry Platform) servers, which are designed to connect AI agents to cloud services, potentially enabling more efficient and scalable AI infrastructure.
+> **Impact:** The introduction of MCP servers may simplify the integration of AI agents with cloud services, reducing operational complexity and improving the performance of AI workloads, which could lead to increased adoption of AI solutions on Google Cloud Platform.
+
+[Read Article](https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yUWM0czRydlEtVl9BRDBDeTBaeWI1VFlvOGFraXFRbU9kZFMyNzRXcWpJaG1ja2VTaHNwaGZvQkhQczRGUnhNOHRaSGFVbFVQcVVqUksySExBM2xHSGdEd013?oc=5)
+
+---
+
+## Recent History
