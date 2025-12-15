@@ -68,3 +68,10 @@ https://www.reddit.com/r/devops/comments/1pl96e8/how_in_tf_are_you_all_handling_
 https://www.reddit.com/r/devops/comments/1pl6rau/an_opensource_realistic_exam_simulator_for_ckad/
 https://www.reddit.com/r/LocalLLaMA/comments/1pkpsee/training_an_llm_only_on_1800s_london_texts_90gb/
 https://news.google.com/rss/articles/CBMif0FVX3lxTFBTazVjRnB2VXJjV2hYc205TlNBWTc2WWVxdE0yNDFXZWV6UUhLWWYzV2VVN0dFaVUyXzJRYnFTZ3JCSjM5a0NxdnhNbFlDWVM4V1pmdllvU3RyN2FNOFBLZVI5cDdKRjlqZWhyX3NBUmtQbUpuY1BBS1dITWd2UVHSAX9BVV95cUxQU2s1Y0ZwdlVyY1doWHNtOU5TQVk3NlllcXRNMjQxV2VlelFIS1lmM1dlVTdHRWlVMl8yUWJxU2dyQkozOWtDcXZ4TWxZQ1lTOFdaZnZZb1N0cjdhTThQS2VSOXA3SkY5amVocl9zQVJrUG1KbmNQQUtXSE1ndlFR?oc=5
+https://github.com/renovatebot/renovate/releases/tag/42.52.8
+https://github.com/renovatebot/renovate/releases/tag/42.52.7
+https://github.com/renovatebot/renovate/releases/tag/42.52.6
+https://github.com/renovatebot/renovate/releases/tag/42.52.5
+https://github.com/renovatebot/renovate/releases/tag/42.52.4
+https://www.reddit.com/r/googlecloud/comments/1pmk10x/google_terminated_my_paid_accounts_kept_billing/
+https://www.reddit.com/r/devops/comments/1pmkjqq/ingressnginx_retiring_march_2026_whats_your/
