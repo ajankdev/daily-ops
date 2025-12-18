@@ -104,3 +104,16 @@ https://github.com/renovatebot/renovate/releases/tag/42.58.0
 https://github.com/vllm-project/vllm/releases/tag/v0.13.0rc2
 https://www.reddit.com/r/platformengineering/comments/1po4lwh/moving_from_software_to_platform_engineering/
 https://news.google.com/rss/articles/CBMiggJBVV95cUxNOFRyaERrMzc0aEQxcm1LanVJeXR2OXoxN3ZSbTNCNTVrS2p2aHViT2FlLTlCUVo4allEMi0zUEFlZC1wTDR1NS1XdXlaS3A3UHRsQjlHcXlNVWpMX2hwODUwNnVybUNVdGF0WXBqXy1nb0Q0V2dndFBLUXg5UEZic2wzZUt1UFQ3VXExZEU1MkhJaVZ5VlJVTDc2TktsSFlDVWx6OHlVYm9zVHVxVXFjYjJiaUFENnh1b2h3d28zVlFWQ05fZmRrTmc0WEx2NS0yYmJnTjRVNk9UWm5NWjVGUmNrMnFWbFZaWUFVZkhLb2w3SjBsN096MnctRGphTzh3TXc?oc=5
+https://cloud.google.com/blog/products/compute/forrester-wave-ai-infrastructure-solutions-q4-2025-leader/
+https://www.cncf.io/blog/2025/12/17/kubevirt-undergoes-ostif-security-audit/
+https://github.com/hashicorp/terraform-provider-google/releases/tag/v7.14.1
+https://github.com/renovatebot/renovate/releases/tag/42.59.1
+https://github.com/renovatebot/renovate/releases/tag/42.59.0
+https://github.com/renovatebot/renovate/releases/tag/42.58.4
+https://github.com/vllm-project/vllm/releases/tag/v0.13.0rc4
+https://github.com/vllm-project/vllm/releases/tag/v0.13.0rc3
+https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/
+https://www.reddit.com/r/platformengineering/comments/1pos6lq/why_kubernetes_ingress_confuses_so_many_engineers/
+https://news.google.com/rss/articles/CBMihgFBVV95cUxQZktJUTF2cUxFdHl5RGlzbTZaLS1CVGxEQTkwZFJTRDNBNk43TDgxX0VDZFk0Tk9CS05WUENhQVVLVEVmVHNJNU0yZm9XWFpXeXlUODFWSE9oUldPY3Z4VElZUzMxdVIzbm1MLWg1djRBMnhqTVhDd3djV1huUERqZFVvaUhNZw?oc=5
+https://news.google.com/rss/articles/CBMilAFBVV95cUxQT2lUSTYyX3RNQzZMTjZvcDZLOFJRYlR0VHdXMklyWVBNVzRISHNpWkRHQ1Y0Zmh0STBsVUo1cjhiaktkUVRyaVN1VzV1TXB1bjZpS2lMZTVBdDFrS28zLWFWNHIzN1NrazdKMlA3SV8yVndJMHRkMTZVOXE4MnprVy13NkJjYk81UzlOSWROeG5QakFT?oc=5
+https://news.google.com/rss/articles/CBMihAFBVV95cUxNMWZtZE5LbXRFWi1VNlUtZzY5VkJPeS1sZjZZcXlGTmZiWGdBUDNodUk1dk1mb196YnRsLUcwallCSDNKc3ZTX24zTU5XSWY5SVR0WFVIcTJUc295RjJXczlvbmZQQVZFamlSQWlTd19PQU5oa1BucXZnWHFrR0VGcWtFTUw?oc=5
