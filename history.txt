@@ -171,3 +171,9 @@ https://www.reddit.com/r/googlecloud/comments/1pvg51i/finetuning_gemini_closedso
 https://github.com/renovatebot/renovate/releases/tag/42.66.9
 https://www.reddit.com/r/googlecloud/comments/1pulig7/qwiklabs_unable_to_ssh_to_vm_instance/
 https://news.google.com/rss/articles/CBMifEFVX3lxTE5oYzVsTDFzS1NNN2hMVnlLNWVoLWpjbGx3Z0JsdWtOWFFuQXJINXVHdFJaQmxkLS1LdWNSRjhBYWt1RWlvRGtUNHQzbldWRUhtR2NXd25NcmtvNG9lSXVNdzQ4TUY1VXVSWUs3UUNuTmlSRGljSjdLQVlfT0o?oc=5
+https://github.com/renovatebot/renovate/releases/tag/42.66.11
+https://github.com/renovatebot/renovate/releases/tag/42.66.10
+https://www.reddit.com/r/googlecloud/comments/1pxda83/google_account_at_risk_of_transferring_to_a_debt/
+https://www.reddit.com/r/LocalLLaMA/comments/1pvjpmb/why_i_quit_using_ollama/
+https://news.google.com/rss/articles/CBMijwFBVV95cUxQdlJuaklmMUh5dzlkM3dWSDRUU2ctNzRBZDZpa2dCYkpvM2pvYTVTZDhYUkZSb1EzREFmeFJBYkNVdXZhUlJwd1dOa21tVy1KenpWQlk2QWJnOTFreEVQNjU0ckxZVnRlU0VoNGpGTXk0OVVWVm45b2Z3Rm9TVnRCWkl1TENneW5pZlpDak1MUQ?oc=5
+https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tNEJ1ZElMRzlMOWgtN3BLNUlGcnZDY3dadmhRY3c1cGNHUWtKX2xTUkJwTV9uVmVsZXV5WlNfQVh3Tmo0eHM5S2JSTXhNY0JBaXBDeWZ5QWNORi1nOVE?oc=5
