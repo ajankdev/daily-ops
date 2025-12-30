@@ -177,3 +177,13 @@ https://www.reddit.com/r/googlecloud/comments/1pxda83/google_account_at_risk_of_
 https://www.reddit.com/r/LocalLLaMA/comments/1pvjpmb/why_i_quit_using_ollama/
 https://news.google.com/rss/articles/CBMijwFBVV95cUxQdlJuaklmMUh5dzlkM3dWSDRUU2ctNzRBZDZpa2dCYkpvM2pvYTVTZDhYUkZSb1EzREFmeFJBYkNVdXZhUlJwd1dOa21tVy1KenpWQlk2QWJnOTFreEVQNjU0ckxZVnRlU0VoNGpGTXk0OVVWVm45b2Z3Rm9TVnRCWkl1TENneW5pZlpDak1MUQ?oc=5
 https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tNEJ1ZElMRzlMOWgtN3BLNUlGcnZDY3dadmhRY3c1cGNHUWtKX2xTUkJwTV9uVmVsZXV5WlNfQVh3Tmo0eHM5S2JSTXhNY0JBaXBDeWZ5QWNORi1nOVE?oc=5
+https://www.cncf.io/blog/2025/12/29/how-to-integrate-kairos-architecturally-into-an-edge-ai-platform/
+https://github.com/renovatebot/renovate/releases/tag/42.66.14
+https://github.com/renovatebot/renovate/releases/tag/42.66.13
+https://github.com/renovatebot/renovate/releases/tag/42.66.12
+https://backstage.io/blog/2025/12/30/backstage-wrapped-2025
+https://www.reddit.com/r/googlecloud/comments/1pxviol/multiregional_inference_with_vertex_ai/
+https://www.reddit.com/r/googlecloud/comments/1pxlt0y/connection_refused_error_when_pushing_to_gcp/
+https://www.reddit.com/r/LocalLLaMA/comments/1pyg4yt/tencent_just_released_wedlm_8b_instruct_on/
+https://www.reddit.com/r/LocalLLaMA/comments/1pvxq2t/hard_lesson_learned_after_a_year_of_running_large/
+https://news.google.com/rss/articles/CBMisgFBVV95cUxPN1ZqdTBHMkR3RTNKQmFjMFFibUlXVk1EZEtlNHpkLVg2cFBUTjZ2MDVTWndOQzVxOFBDeEN0M1NIdlZQVmJNRm5xaU1ZMWcxX2xoSkRRNjUwYUFPd0JSYlpTSVVPdVJPWTN3WHdSc2tFdHpjV0xvODhJWjdJRm9Ib1VFVmFNMGJ4d2JCTENuMWtLcExjbno1bWlYbWI5Mk5seEJWS0xDekZvT0VyODNrTEx3?oc=5
