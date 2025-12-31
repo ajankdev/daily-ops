@@ -187,3 +187,15 @@ https://www.reddit.com/r/googlecloud/comments/1pxlt0y/connection_refused_error_w
 https://www.reddit.com/r/LocalLLaMA/comments/1pyg4yt/tencent_just_released_wedlm_8b_instruct_on/
 https://www.reddit.com/r/LocalLLaMA/comments/1pvxq2t/hard_lesson_learned_after_a_year_of_running_large/
 https://news.google.com/rss/articles/CBMisgFBVV95cUxPN1ZqdTBHMkR3RTNKQmFjMFFibUlXVk1EZEtlNHpkLVg2cFBUTjZ2MDVTWndOQzVxOFBDeEN0M1NIdlZQVmJNRm5xaU1ZMWcxX2xoSkRRNjUwYUFPd0JSYlpTSVVPdVJPWTN3WHdSc2tFdHpjV0xvODhJWjdJRm9Ib1VFVmFNMGJ4d2JCTENuMWtLcExjbno1bWlYbWI5Mk5seEJWS0xDekZvT0VyODNrTEx3?oc=5
+https://github.com/renovatebot/renovate/releases/tag/42.68.4
+https://github.com/renovatebot/renovate/releases/tag/42.68.3
+https://github.com/renovatebot/renovate/releases/tag/42.68.2
+https://github.com/renovatebot/renovate/releases/tag/42.68.0
+https://github.com/renovatebot/renovate/releases/tag/42.67.0
+https://www.reddit.com/r/googlecloud/comments/1pyqd7y/just_wrapped_up_a_data_management_plan_dmp_for_a/
+https://www.reddit.com/r/googlecloud/comments/1pyv9m1/dead_gcp_load_balancers_bleeding_2kmonth_cleanup/
+https://www.reddit.com/r/googlecloud/comments/1pypwg5/anyone_got_real_world_examples_of_using_a_ai_data/
+https://www.reddit.com/r/devops/comments/1pzgupz/qa_tests_blocking_deploys_6_times_today_averaging/
+https://news.google.com/rss/articles/CBMilgFBVV95cUxOc3Etcl9zbEZGdk5SNFhsSGFUcEVZZzlra3JBZzE0a1FqQWFoM1JFeUNSYzNCamFGUDNPSzNJU1NrRmxCTUFtYzZPY01ZT21lWnBWLXVGYU9IQ1U0ZEU2Tl9MWmMzZ01JUThNWm54VjZZTlNSVVg2b3o3NXcxTnlQX2oxMVVtcnNvTHF2LWctRlM4aTVTQVE?oc=5
+https://news.google.com/rss/articles/CBMidEFVX3lxTFB3UjYwMlY0UHpBbWhfVzFXRVZwaDBkYmVyaEVHeTduc2tWbzZlOEo1VEkxRTlwMEU2ekNRZUhDTFMtQ3QzblRiUFM1SkRYN1VXMlhGbFpvSEtRRnlGUUEwOHc3UDdEOU5Qamg1YjFJaGllU2Nh?oc=5
+https://news.google.com/rss/articles/CBMiywFBVV95cUxOZEltb1VkRWlsbWJWT1dFOUZCeXZJRFo4WW16ajhNQ3RoNzFZS2RWX3pzOHNlMVVPQlBRYmV6cXB6VV9oaS1PQVV5aXJabGtLc1V2MG82M1djNUJ3MUFDS3NhSDA5LVl1bUlIMVFjTkJGNjFaOFJZTGZETXJEc3BBdHRkRmFibFBTQlUyMm9jZDVzdlI5MlpnYXQtWmcxTVdkbHZPTkZORWtOZjBqVnZzdXhET1VMTEhac2lyaXpwWjZaRjRfWnZvZXdXRQ?oc=5
