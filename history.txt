@@ -207,3 +207,10 @@ https://news.google.com/rss/articles/CBMiigFBVV95cUxOOHdCcDlULWpKR2ROcE1BYnFpM0h
 https://www.reddit.com/r/googlecloud/comments/1q0ollm/any_good_tools_for_cloud_cost/
 https://www.reddit.com/r/googlecloud/comments/1q0l46k/happy_new_year_2026_lets_see_what_this_years/
 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaFIyeGNxTjFzU1h2QkVLaU13Sm83ZkpRS2hPbTBqeTEyQ19UUm5vLWpaZ1dLdm9ZY2I5aURKUVR5TlZIcWhrcnlrVExHbkxFUDR1RGZZaUJ6RGJrLXVtVHVjRTA0S3hFWnBCUTBqLTVFZ1FzMHlqaTNHSjVBNE1RRE80SFFkOG5sVEJ0c25VRHh5MU8wMFo3My1BeXdseG9ERGs2cURDZHNOZWl1QkloSTMzUWRabGNZYUpwVnVTZEdCdlpBU05KNy1RbzZvWi1CUUthazVrR2tIZl9GcFl0OXFUWFk2V1U?oc=5
+https://github.com/renovatebot/renovate/releases/tag/42.70.2
+https://github.com/renovatebot/renovate/releases/tag/42.70.1
+https://github.com/renovatebot/renovate/releases/tag/42.70.0
+https://www.reddit.com/r/devops/comments/1q1wjzy/this_may_sound_insane_but_i_am_considering/
+https://www.reddit.com/r/LocalLLaMA/comments/1q1p5q5/getting_ready_to_train_in_intel_arc/
+https://www.reddit.com/r/LocalLLaMA/comments/1q0x8ci/software_fp8_for_gpus_without_hardware_support_3x/
+https://www.reddit.com/r/LocalLLaMA/comments/1q0uuqt/happy_new_year/
