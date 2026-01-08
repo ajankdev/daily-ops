@@ -236,3 +236,17 @@ https://github.com/renovatebot/renovate/releases/tag/42.72.0
 https://github.com/renovatebot/renovate/releases/tag/42.71.4
 https://github.com/renovatebot/renovate/releases/tag/42.71.3
 https://huggingface.co/blog/nvidia/llama-nemotron-vl-1b
+https://cloud.google.com/blog/topics/developers-practitioners/instant-insights-gemini-clis-new-pre-configured-monitoring-dashboards/
+https://www.cncf.io/blog/2026/01/07/holmesgpt-agentic-troubleshooting-built-for-the-cloud-native-era/
+https://github.com/hashicorp/terraform-provider-google/releases/tag/v7.15.0
+https://github.com/renovatebot/renovate/releases/tag/42.74.2
+https://github.com/renovatebot/renovate/releases/tag/42.74.0
+https://github.com/renovatebot/renovate/releases/tag/42.73.0
+https://github.com/NVIDIA/k8s-device-plugin/releases/tag/v0.18.1
+https://opentelemetry.io/blog/2026/slack-community-insights/
+https://www.reddit.com/r/googlecloud/comments/1q5gu8k/google_cloud_feels_great_when_things_are_small/
+https://www.reddit.com/r/googlecloud/comments/1q49yng/should_i_be_using_the_google_cloud_platform/
+https://www.reddit.com/r/googlecloud/comments/1q4yc91/selfhosting_an_ai_chat_interface_on_google_cloud/
+https://www.reddit.com/r/googlecloud/comments/1q4mh39/google_cloud_refunded_75_of_unintentional_charged/
+https://www.reddit.com/r/platformengineering/comments/1q5eykr/researching_platform_resilience_observability/
+https://www.reddit.com/r/LocalLLaMA/comments/1q6c9wc/deepseekr1s_paper_was_updated_2_days_ago/
