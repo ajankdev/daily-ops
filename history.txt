@@ -250,3 +250,10 @@ https://www.reddit.com/r/googlecloud/comments/1q4yc91/selfhosting_an_ai_chat_int
 https://www.reddit.com/r/googlecloud/comments/1q4mh39/google_cloud_refunded_75_of_unintentional_charged/
 https://www.reddit.com/r/platformengineering/comments/1q5eykr/researching_platform_resilience_observability/
 https://www.reddit.com/r/LocalLLaMA/comments/1q6c9wc/deepseekr1s_paper_was_updated_2_days_ago/
+https://github.com/renovatebot/renovate/releases/tag/42.74.7
+https://github.com/renovatebot/renovate/releases/tag/42.74.6
+https://github.com/renovatebot/renovate/releases/tag/42.74.5
+https://github.com/renovatebot/renovate/releases/tag/42.74.4
+https://openai.com/index/netomi
+https://www.reddit.com/r/googlecloud/comments/1q6il0n/gcp_and_gws_connection/
+https://news.google.com/rss/articles/CBMixAFBVV95cUxNUE1zQl9NdlRNRy1aTWRKeDlFLXZIQUVxUTRwNVVoczNlMUNKZmZSdWwxcUM3SWJwNHVOQk92aUc5dWlOZ3FYNlQyS193LUIxeFFoVkNJQV9kYjl6d2trQXpzZFRRMTFyY1BMRlFjYklhRV9WQ1I1aEZBV01Sa3plWVhmX3lnWEdELWlUTFJuZUtKancxTVNOaFpwUHF2M2dhVHRRa0ZHX1hhU2gxRTBhc1cwejJ4UDF5aEJ3QVFocUpGeDYw?oc=5
