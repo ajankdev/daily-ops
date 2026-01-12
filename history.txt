@@ -277,3 +277,9 @@ https://www.reddit.com/r/googlecloud/comments/1q8ef9m/gemini_cli_gemini_3_flash_
 https://www.reddit.com/r/LocalLLaMA/comments/1q88hdc/the_information_deepseek_to_release_next_flagship/
 https://news.google.com/rss/articles/CBMif0FVX3lxTE5oRHpUY2Z2RlF3UTlsX3h0UzlPYktMX0xWaWRKTE1QTjZOSmNpWWt0OVYwY2dkUDFQSDdYZ3llRXo1eVdMQUhJUGFXY0lrRlNaQmRnS25uc19xZ2s1YjJEeEJRUURzY2ttdG1hTkZpaUl5U0dfNGoweDRsQzk2MW8?oc=5
 https://news.google.com/rss/articles/CBMiswFBVV95cUxORWhwS1dMRW5uWEp4WjJ3ZTcxYnVEcXN3U2hRQTBXbnVwWWhjckpKMEVzOHpZZ0t6ZVpoMGxvNTF2bS14ZFptajlxSWdCTWE0NVFydlhWRXJNSGhZWS1jcDhSMlJQVkFrSEdFRW5sb1ZMRjZqaHhGUFZYVE9iTDduTUhHVFB2OWJyVVRwb2lacVpDRDZhM3Y5U3RwMEktT09vVEVrZzVHTDB5X0RUOFJjT2VFZw?oc=5
+https://github.com/renovatebot/renovate/releases/tag/42.78.2
+https://github.com/renovatebot/renovate/releases/tag/42.78.1
+https://github.com/renovatebot/renovate/releases/tag/42.78.0
+https://github.com/renovatebot/renovate/releases/tag/42.77.0
+https://www.reddit.com/r/devops/comments/1q83ft5/where_the_cloud_ecosystem_is_heading_in_2026_top/
+https://news.google.com/rss/articles/CBMigwFBVV95cUxNVHNrM0V3ZUFQTElsbWd2N2M5MUl5MXZKSTZxU0VEdnN4ZnJpTzQxcnFSZllxTGE5RzBqMjl0U1h3ejd5UVE0WnFGaGtGdF92SDN4YzEtVnBpdHhDeEV6X1MtWkpMVGlsUXRZQW1PMkt6VWNnQTF5YmhjS0dFUm9ZYkowVQ?oc=5
