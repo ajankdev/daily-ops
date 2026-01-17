@@ -20,8 +20,6 @@ feeds:
     name: "FluxCD Release"
   - url: "https://fluxcd.io/blog/index.xml"
     name: "FluxCD Blog"
-  - url: "https://github.com/renovatebot/renovate/releases.atom"
-    name: "Renovate Release"
 
   # =================================================
   # 3. AI INFRASTRUCTURE
@@ -111,7 +109,6 @@ filters:
     - "Flux"
     - "GitOps"
     - "Backstage"
-    - "Renovate"
     - "vLLM"
     - "Ray"
     - "Inference"
