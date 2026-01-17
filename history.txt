@@ -346,3 +346,10 @@ https://news.google.com/rss/articles/CBMiR0FVX3lxTFBDUmdzRk1OdnpPdXN2UFIyMnlhMmx
 https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQlhYSEI5LTV5Zjhhd21UcnRsOXAwQ2VBTWVCRUlvVExPRVhzNVZ3c1Uza0thdkFNYjlBRzVub0VGN1hoVVdNcEl2d1c0OXZnNHN4UXE5QjI4YWtVYUZxQnFCOWlmQWNUd1pSUlVuYjIza2V4alpxN3Y4RU1McFduS3RPT0MtdTJjRzZfYWZubTNSSmV4SERWaERWcVVpX2NzWEt5TkFYT2xvMWJVMVlBMHZOVDlPa2d1U0FWVVBQS3VUTHFiOEVKWg?oc=5
 https://news.google.com/rss/articles/CBMijgFBVV95cUxPNjc0WV96aklhNmlLM1RTNWc5NkJ1ZXdQd0ZvZlRBbDJvS2FrYllBXzh1ZXZ6aVllSFJBUnlmNW1NTjVKa2tiWlctTktLUXpsMnJfYTlqWWd3WkxTMUFZeExRWlhrZmllc2JsNTFYbzgzX0JfUG1Ca1lXSDFPY244MHR3aFBLblpYRzYxMXdn?oc=5
 https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FdHZ0MlNSVnBKdVBRWk1YTHB5NDBqY240aUgxVmNTU3BoRjVrcGg5cTMzRUJ0QXdlZlNFMENOWnI4SXBIamZWeEVIdU1vM1RMZlJZMFdXTloxS0VVNjJOYlkxTi1iQU3SAWdBVV95cUxNRXR2dDJTUlZwSnVQUVpNWExweTQwamNuNGlIMVZjU1NwaEY1a3BoOXEzM0VCdEF3ZWZTRTBDTlpyOElwSGpmVnhFSHVNbzNUTGZSWTBXV05aMUtFVTYyTmJZMU4tYkFN?oc=5
+https://cloud.google.com/blog/topics/partners/palo-alto-networks-builds-a-multi-tenant-unified-data-platform/
+https://www.cncf.io/blog/2026/01/16/cri-o-completes-second-ostif-audit/
+https://github.com/renovatebot/renovate/releases/tag/42.83.1
+https://github.com/renovatebot/renovate/releases/tag/42.83.0
+https://github.com/renovatebot/renovate/releases/tag/42.82.3
+https://www.reddit.com/r/LocalLLaMA/comments/1qbpz5l/kyutai_just_introduced_pocket_tts_a_100mparameter/
+https://www.reddit.com/r/LocalLLaMA/comments/1qee2de/i_fucking_love_this_community/
