@@ -353,3 +353,5 @@ https://github.com/renovatebot/renovate/releases/tag/42.83.0
 https://github.com/renovatebot/renovate/releases/tag/42.82.3
 https://www.reddit.com/r/LocalLLaMA/comments/1qbpz5l/kyutai_just_introduced_pocket_tts_a_100mparameter/
 https://www.reddit.com/r/LocalLLaMA/comments/1qee2de/i_fucking_love_this_community/
+https://www.reddit.com/r/platformengineering/comments/1qf7bv2/does_ai_actually_have_a_place_in_our_platform/
+https://news.google.com/rss/articles/CBMizAFBVV95cUxQRWxYaGh3ZmxlYkVWdnE0OWJvS0lUMk9SWUtGVDNhLS1Pd2ZJcXRpMFFBRWstZnpLREdtZ2Z2bkwtdkk2eWViV0NMSzZnY1diZHpIOU5pOGFCUlVHMVF3NHN3ZFBxZ1dkamJad1BvTENTWlVCb1YyVVduMHpZbmF0cEtXVVluRXM3eDk2ZmRDSklXV3NoSklmWVVpb1Fra3JNMlIzODdTQmhzWFdNdndrTzYxWGZ2TTJaT2ZyS1RTWjBOUjM5cG9mRmM4U3M?oc=5
