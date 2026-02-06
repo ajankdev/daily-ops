@@ -471,3 +471,13 @@ https://www.reddit.com/r/googlecloud/comments/1qw15x4/suspended_from_google_clou
 https://www.reddit.com/r/googlecloud/comments/1qurnia/i_passed_the_pca_exam_with_just_one_week_of/
 https://www.reddit.com/r/devops/comments/1qvtb82/audits_keep_pulling_senior_engineers_into_work/
 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQkI0MEFvVWpTM2VJc0xGdC1HNC1xRy11YndseVRtSmNjYmthS3c3N0pRSHNIT2lnZVFyOHVjZk5NQkFhQjlBMkR5dktOWW1hMWZzT09zVVk0ZVBSQjVpbGFqSURVdXdQSVdMZEtrakJGWVRtSnRNVnRYRExmLW9PdzNpcEFuTWwwbFFoZXlYbkpOckZlbDd2XzdNOVJrM3JPZGhUa2d3NDdyTlBoUTh0dmJvTzJIVDR0NGtr?oc=5
+https://cloud.google.com/blog/topics/developers-practitioners/getting-started-with-gemini-3-unlocking-the-cloud-with-the-free-trial/
+https://cloud.google.com/blog/topics/developers-practitioners/agent-factory-recap-build-an-ai-workforce-with-gemini-3/
+https://cloud.google.com/blog/topics/developers-practitioners/ship-production-ready-ai-and-survive-the-multimodal-frontier-this-february/
+https://www.cncf.io/blog/2026/02/05/dragonfly-v2-4-0-is-released/
+https://openai.com/index/introducing-openai-frontier
+https://openai.com/index/gpt-5-3-codex-system-card
+https://openai.com/index/introducing-gpt-5-3-codex
+https://opentelemetry.io/blog/2026/kubecon-eu/
+https://www.reddit.com/r/devops/comments/1qvkf06/is_it_okay_to_list_a_homelab_setup_with/
+https://news.google.com/rss/articles/CBMiakFVX3lxTE5SaE9rUUJHWC1wZm01M3IzV3VpLXpnOVdRbkJpLU9jeTZCOGltREw5VUpYTHlYRjV5RnE5STUxREJRTXZMZEx4UC1tQUlzYm5lYUhBdEt5YTVOZk5OQksxVzg5UjUwSFRlWGc?oc=5
