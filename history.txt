@@ -481,3 +481,7 @@ https://openai.com/index/introducing-gpt-5-3-codex
 https://opentelemetry.io/blog/2026/kubecon-eu/
 https://www.reddit.com/r/devops/comments/1qvkf06/is_it_okay_to_list_a_homelab_setup_with/
 https://news.google.com/rss/articles/CBMiakFVX3lxTE5SaE9rUUJHWC1wZm01M3IzV3VpLXpnOVdRbkJpLU9jeTZCOGltREw5VUpYTHlYRjV5RnE5STUxREJRTXZMZEx4UC1tQUlzYm5lYUhBdEt5YTVOZk5OQksxVzg5UjUwSFRlWGc?oc=5
+https://cloud.google.com/blog/products/containers-kubernetes/how-gke-inference-gateway-improved-latency-for-vertex-ai/
+https://cloud.google.com/blog/topics/public-sector/starfish-space-uses-google-cloud-to-accelerate-satellite-servicing-in-orbit/
+https://opentelemetry.io/blog/2026/new-community-managers/
+https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZzA5eEtLQ3dydW5jRGlLMlh6V1hWRXhhazBEc0lmV0lNQnpWLVlnWG5Ha3VjeW5fZnJFUDFfVkVWSmNtcVFFTVdVZUlHYTBGd3NBZUIwZEZTelhKeWVIWFZRS21Mc0pxT1d4RWdYYjFKTWJvSjFYU2JJLWJZVktkci1xQXgwVFU3NW9feFlEa3h2VTRORzZBOGJwMWdrVnM5WWQ2SldEb1lYdGNUbGJlWFZSQV9sNXlWSkR6SFhKNGs2YzBqekRGWFFlTDhFVWlRR21MQ1hpdDNZX0tMOG01Sk1tRHN4RVNlUFd0dA?oc=5
