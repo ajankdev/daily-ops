@@ -516,3 +516,5 @@ https://www.reddit.com/r/platformengineering/comments/1r2vtub/why_60_of_java_wor
 https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBS00tUzdyd20xdGd5UTRpV3hVa1FrWW1ieW40bkpMdUo1bGRlUUV0V1hwNl9VM2xvZE9Oc1drejJxYVVzaE91VTBSNmFoMXA0aXMyNUVPdlJvUmJHSVgxVUtsbw?oc=5
 https://news.google.com/rss/articles/CBMijgFBVV95cUxQS1llVW1wNXA0Q0J5QjVHSGZiYmR4Uk9tS0pCTjFLQ3M5QlYwR0xpc1JBRE9OMm9tTENuQXhwS3dyM0hvOGt3X21GRHFhc3NIVXVXcFRKTnBtUzRWMXAzZHVRZ29HMjQtdk1hUTRkTTI4Ykk1MXJSV25LcHpkM3cxSzRMMFNIY21tUlBwSHNB?oc=5
 https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wMm8wOThGbU1YTTByb2oyekdmZFdvdnRRX0VmZTdoR1phSk1fR3NOeDRIZ0ZDbDRsRzh2T3B5UWpLSG40UnUyWHB2Y3BqVTE3MWNDUkxQNmVYMW8?oc=5
+https://huggingface.co/blog/custom-cuda-kernels-agent-skills
+https://www.reddit.com/r/devops/comments/1r3ojn5/devops_suddenly_no_interviews/
