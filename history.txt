@@ -518,3 +518,6 @@ https://news.google.com/rss/articles/CBMijgFBVV95cUxQS1llVW1wNXA0Q0J5QjVHSGZiYmR
 https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wMm8wOThGbU1YTTByb2oyekdmZFdvdnRRX0VmZTdoR1phSk1fR3NOeDRIZ0ZDbDRsRzh2T3B5UWpLSG40UnUyWHB2Y3BqVTE3MWNDUkxQNmVYMW8?oc=5
 https://huggingface.co/blog/custom-cuda-kernels-agent-skills
 https://www.reddit.com/r/devops/comments/1r3ojn5/devops_suddenly_no_interviews/
+https://www.reddit.com/r/googlecloud/comments/1r4r7ts/when_are_we_going_to_get_cloudrun_arm/
+https://www.reddit.com/r/devops/comments/1r3tfjt/whats_up_with_these_sde_style_interviews/
+https://www.reddit.com/r/platformengineering/comments/1r4kb1j/openshift_kubernetes_if_your_goal_is_money/
