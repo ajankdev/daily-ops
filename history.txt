@@ -521,3 +521,9 @@ https://www.reddit.com/r/devops/comments/1r3ojn5/devops_suddenly_no_interviews/
 https://www.reddit.com/r/googlecloud/comments/1r4r7ts/when_are_we_going_to_get_cloudrun_arm/
 https://www.reddit.com/r/devops/comments/1r3tfjt/whats_up_with_these_sde_style_interviews/
 https://www.reddit.com/r/platformengineering/comments/1r4kb1j/openshift_kubernetes_if_your_goal_is_money/
+https://www.reddit.com/r/googlecloud/comments/1r5dbmm/passed_the_google_cloud_pmle_in_30_days_heres/
+https://www.reddit.com/r/LocalLLaMA/comments/1r656d7/qwen35397ba17b_is_out/
+https://www.reddit.com/r/LocalLLaMA/comments/1r5v1jb/anyone_actually_using_openclaw/
+https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jVDRyZVYybU41aGo3YjZpSFM4Zm1QdXFGaU90Z2lLV0gzU0hzT1VHei13UGhJUHM3NTJGTHhtaEs2UC1fbldHcWQ2aXQ2NFRhTm9TM2xR?oc=5
+https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcmRNT05Oem1Oa0NLSTB1VEpEcjZsMVJzejN3VjJmckQ4bjduRl9KR3VBWFNWNTR1a3VrV19kdXpRMGFyaTVqR2pzcUJ6VjAzdnpyY1VUeG9YMk5VU2NXY041VVQwRkEwejFkcXJnay1LVTAxakp1dmRsMFBCWkh1SS03ZGtHajIx?oc=5
+https://news.google.com/rss/articles/CBMimgFBVV95cUxQTWNibXN4ZXVneTktQ0Q4ZFNoZGdFWVFvcWV1S3RpazBPcEVVM2FLZVpNa0JsanNkZWx6RWxFX1pGZkUtZEY3LWgxaEEzTEQ4TFh4d2hTOUhCaFA0MHNaLTlicE9HVGJJYUNmOXFmSEdmeDZNc18xMzdYcjh1bzlIS0gxcmJuUkpFaVpwX1EzQ2NJeFpsNDNZaWt3?oc=5
