@@ -559,3 +559,5 @@ https://www.reddit.com/r/googlecloud/comments/1rao0ah/custom_search_programmable
 https://www.reddit.com/r/devops/comments/1ralvnj/how_likely_it_is_reddit_itself_keeps_subs_alive/
 https://news.google.com/rss/articles/CBMigwFBVV95cUxOYWtHZXNKZHo0c095ZW9xOHFaSUdRTGl1UGxPbktVcTdPamloZm5GN29DRVF6ckxSSkllQVo5WWNuUlVUWWF6MmNNaENWSmhLaVd4blZLM1pJVk1oWUlYRmxQWHVPVzVYUXJvQ2x0aUo4NVVmWWY4TVJfclBmUTdPZEcwbw?oc=5
 https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iR2xZck5GTHZIOUZJVVg2SUktQjdPNFFEOUVyeFZXTTRfa3JhNUdmVFhRWk1kZmxTdXV2UlpSV3hZUjE0cXNZVmVDR3Uxd09KZXk3eFdxaXFpMklyTjFRTUJRVQ?oc=5
+https://www.reddit.com/r/googlecloud/comments/1rblzi3/the_hidden_risk_of_gcp_viewer_role_crossproject/
+https://www.reddit.com/r/platformengineering/comments/1rc489s/i_built_an_iac_orchestrator_for_terraform_looking/
