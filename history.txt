@@ -561,3 +561,7 @@ https://news.google.com/rss/articles/CBMigwFBVV95cUxOYWtHZXNKZHo0c095ZW9xOHFaSUd
 https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iR2xZck5GTHZIOUZJVVg2SUktQjdPNFFEOUVyeFZXTTRfa3JhNUdmVFhRWk1kZmxTdXV2UlpSV3hZUjE0cXNZVmVDR3Uxd09KZXk3eFdxaXFpMklyTjFRTUJRVQ?oc=5
 https://www.reddit.com/r/googlecloud/comments/1rblzi3/the_hidden_risk_of_gcp_viewer_role_crossproject/
 https://www.reddit.com/r/platformengineering/comments/1rc489s/i_built_an_iac_orchestrator_for_terraform_looking/
+https://cloud.google.com/blog/products/networking/understanding-the-firefly-clock-synchronization-protocol/
+https://www.cncf.io/blog/2026/02/23/kubernetes-as-ais-operating-system-1-35-release-signals/
+https://openai.com/index/frontier-alliance-partners
+https://www.reddit.com/r/devops/comments/1rcc7en/am_i_the_only_one_who_genuinely_prefers_onprem/
