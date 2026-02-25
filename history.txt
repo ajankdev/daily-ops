@@ -565,3 +565,15 @@ https://cloud.google.com/blog/products/networking/understanding-the-firefly-cloc
 https://www.cncf.io/blog/2026/02/23/kubernetes-as-ais-operating-system-1-35-release-signals/
 https://openai.com/index/frontier-alliance-partners
 https://www.reddit.com/r/devops/comments/1rcc7en/am_i_the_only_one_who_genuinely_prefers_onprem/
+https://github.com/hashicorp/terraform-provider-google/releases/tag/v7.21.0
+https://opentelemetry.io/blog/2025/gc-elections-results/
+https://opentelemetry.io/blog/2025/obi-announcing-first-release/
+https://opentelemetry.io/blog/2025/contrib-unroll-processor/
+https://opentelemetry.io/blog/2025/deprecating-zipkin-exporters/
+https://www.reddit.com/r/googlecloud/comments/1rdg1pv/whats_one_gcp_decision_youd_rethink_if_starting/
+https://www.reddit.com/r/googlecloud/comments/1rcq1hv/gcp_data_engineer_looking_for_new_job/
+https://www.reddit.com/r/googlecloud/comments/1rdwt7k/google_cloud_next_26_session_library_just_went/
+https://www.reddit.com/r/LocalLLaMA/comments/1rcseh1/fun_fact_anthropic_has_never_opensourced_any_llms/
+https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZHdScTYwdlR0RFRmcUI1MDJjSVlKMVg2aHVtY0pNcFBZOU1lbEVJRy1ZbDI0Ql84WXlySnRuNFBjQUxOR1AzQlBHQkRLSDVnUXk2b1Bpa20tdGllRTVwbGVGSjNlYVZlZ1EzRUp5aXBXWkF5RjltaVBRYzQ1VGhjT0dfS05TOFZSWkxHeWFoOVJsdnh6R243S1FDLTJBMGh1bTBsNExsTTZ6RGZEZmlETVFUN0VRakZJU2R0UGYycFNIVkpMY1Ayc0dVTF9IUTV4ckdFY016MnZ4bXg5aS10aXdnMlJSckhRYmlvNWJ6T21TUQ?oc=5
+https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLTJaWmtJWkFUTGE1Rm5VMlFBdXFTcVJIQUUtQmVPUE15akRBbEZiRXlIc1lrTFNiTmRFbWhoUGJrcmxZMU02TE5nU3ZrX1BjZHJtUlU2Rm5ET2FpeGhFQlJ2Z0FRR3dsR01jOTZZbmlBdk5oMHp2YXJyMG84YUIxWjljTzhia3Bibi1WTnNYYUUxbkdlQWJiRE5oYllVUmpXaG5rNDZzOFFtOEh3Z0pkZEl0bURaWGRjb3dKai1RVV8?oc=5
+https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUDB6YlV1S2hnMXlXcUJiYVluNVZURE9OQ2RvUlY0VHV2YmN0Z0JUeEQtUEI2aHhVb0gweU1zOE1JM3F2M2NWbW5BNjNreXZQb0tGUmNWVk1iZmhMVnVacXlHMzYtOTVvclRQVWthUDVxZWZGQUtOQURHbnVNLVBFNWpMS2VYVHlTODgtQTdEZGZTUHNFMUZIN3Njbm5YcGpDY1hHdE9nakU0RWdwRE5DWnZOQjlNbEwwejNuX3BFWFNPTjJvR0pqdTBlVXBwbDVpeVR4YmFiaWdQWEcyRGdZYXB5UjVLYkZBOXdXcw?oc=5
