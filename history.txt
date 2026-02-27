@@ -585,3 +585,12 @@ https://www.reddit.com/r/googlecloud/comments/1rdlogm/notebooklm_vertex_ai_docs/
 https://www.reddit.com/r/platformengineering/comments/1rf1p0v/practical_mcp_governance_rollout_kit_for/
 https://news.google.com/rss/articles/CBMisAFBVV95cUxPMmxsYVp2dUlrMml0V1dGVDBHYmY1Y1ZzN1l5SXFXZ0FPVkJyYjNhdUluTGYtQU9SS0dWYUV1ZndoR3h4Y1JVejU3YmhfSXYzYlVUUms4aDVoSlQ4S2xxUDN3V3ZEbThPWjJHY3lhbkRIbGNjaHU2YU40aGxSeWQ1VThXN0xHTktCdHJYLVJ0Zl8tMjhVQ3oyWEtsaE5QU2lKSWZycTdWNEczNFZJY1FyQw?oc=5
 https://news.google.com/rss/articles/CBMipwFBVV95cUxOS1BMRHdBaFAzNVlxTk82TFpQU3hxbDRnQ253TklwUFM0Rk14bnRnMW5BQ3hJMXJtN0RCeDkxZFVCN0NoaW1ISzZNTmZvb2pQZU5nRnZqdGZoSDkxakxIUWNfUmVUVkNaU1phN0JvYWFaNkhNVHBlVTFwMFdKekI2Yjk1bk91MXdfbGthalc1MVdMQ0F6RkZwRTA1a0szOVY5eUtYWjRHaw?oc=5
+https://cloud.google.com/blog/products/databases/paypals-historic-data-migration-is-the-foundation-for-its-gen-ai-innovation/
+https://cloud.google.com/blog/topics/customers/cool-stuff-google-cloud-customers-built-monthly-round-up/
+https://www.cncf.io/blog/2026/02/26/kubernetes-wg-serving-concludes-following-successful-advancement-of-ai-inference-support/
+https://www.cncf.io/blog/2026/02/26/exposing-spin-apps-on-spinkube-with-gatewayapi/
+https://opentelemetry.io/blog/2026/hello-from-community-managers/
+https://www.reddit.com/r/devops/comments/1reypmr/explaining_kubernetes_ingress_tls_certificates_to/
+https://www.reddit.com/r/platformengineering/comments/1rfa3uf/im_writing_a_paper_on_the_real_endtoend_unit/
+https://news.google.com/rss/articles/CBMiXkFVX3lxTE81VXZwbU1DcEZJeEtsSjcyUUFlMFZic29sc0dYR1VrY3liS1praE8xaDVGOEhXUkpKc3BNaWtKdmFwd212dTJaRktrelZNM09YTjFvUEl5S2Qzbmw3Z3c?oc=5
+https://news.google.com/rss/articles/CBMihgFBVV95cUxOUkRyWGREMHBTbHR5bEZ6cHJJbG9UYkhUWHF6YmR5eHpJSXc2U3Y5UTIxRlQ1U0RiOHEyWVpLd3I5N2hYdnMxX2RXb0NQdjB6Q2hBTGo3Y0MyZjlCQ0MxelRnczAzV2FURDBXWGFMcUxNNHJENnpJX1pSc3psYV9MUkJzZThtQQ?oc=5
