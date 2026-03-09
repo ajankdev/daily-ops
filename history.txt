@@ -643,3 +643,6 @@ https://www.cncf.io/blog/2026/03/06/kubecon-cloudnativecon-europe-2026-co-locate
 https://github.com/vllm-project/vllm/releases/tag/v0.17.0
 https://openai.com/index/balyasny-asset-management
 https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yY0NNLXBTSXJQZVBLeGo3NFBuNmNYRC1Nazl0Y0Jfd2tSUXJrRjBCM0g1Q0VRU19zbml4MzFfTXV0d0pTdV9ocUs5MnJtN1hmYXlJT3pZcEI2cFJsblBfWVU3cXluc2s?oc=5
+https://www.reddit.com/r/googlecloud/comments/1rmcjdv/cant_increase_cloud_run_nvidia_l4_quota_with_1300/
+https://www.reddit.com/r/googlecloud/comments/1robsxn/unknown_project_with_facturation_account_appeared/
+https://www.reddit.com/r/devops/comments/1rliqxr/what_things_do_you_do_with_claude/
