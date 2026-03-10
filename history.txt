@@ -646,3 +646,8 @@ https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yY0NNLXBTSXJQZVBLeGo3NFBuNmN
 https://www.reddit.com/r/googlecloud/comments/1rmcjdv/cant_increase_cloud_run_nvidia_l4_quota_with_1300/
 https://www.reddit.com/r/googlecloud/comments/1robsxn/unknown_project_with_facturation_account_appeared/
 https://www.reddit.com/r/devops/comments/1rliqxr/what_things_do_you_do_with_claude/
+https://cloud.google.com/blog/topics/public-sector/google-named-a-leader-in-idc-marketscape-us-state-and-local-government-professional-security-services-20252026-vendor-assessment/
+https://cloud.google.com/blog/topics/developers-practitioners/cost-effective-ai-with-ollama-gke-gpu-sharing-and-vcluster/
+https://www.reddit.com/r/googlecloud/comments/1rp2yus/youtube_analytics_api_stopped_returning/
+https://www.reddit.com/r/devops/comments/1rpctk0/how_are_you_handling_an_influx_of_code_from/
+https://news.google.com/rss/articles/CBMipAJBVV95cUxOV2szY0E1QkJ3SHFtcWltOFlHZnNpWDRISWwtRWpla3l3WXlPcVplM3ZENE5PYnhtSzdCWWZMS1U0MUxlTnpseF9zM21JaWZERnIxTV9wN1NFZ0tvNHpKNFZ6aWFIMUpiRWpaUlM2ZVFFV2JybmIwaDVJZVF4TUN6T2lSc1R5YnM0c2pDUVAyNjg1Y0VYXzlEQmtVZFVuRGVRRXcwWGl1djFNU3lHX2kzcWJFOGFoX0ExRWxHLU1PM0djNGJhclBEWjRYNDhDZzFBU2pwWFRPVUJNZzk4Y0cxanZzbmdGeWxnMnY1akkwb2s1elAxMDZTV1RBVTBVRXlDanNzWUt0cEh3aWNta1Jwa2hubGlOUUhLeE5EdEhwVzktZEpS?oc=5
