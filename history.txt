@@ -867,3 +867,8 @@ https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HRENtMlJrdGJyZXlDdFZ5WGFjaTl
 https://news.google.com/rss/articles/CBMisgFBVV95cUxPbU1oY3hKN09RWFNHc09XclFiQl9XZ0tjay10dGp6RGJFY0hDS3FXamJPemJWWHlIbEZHdmZuaEFfcnVIRThGdGt5UU5WTVpRVFozbXIyRTRiYmxwTzB3cm1IbTRCUGZSUldLUzNMcy1nTVl1MVdIT2M4MzlJRUNySGhXSDIwcjZIRzhVWFdHejZLQmVucFdDZU1sME54bU93b3Bkc0NURzVmczlIVnV2RFh3?oc=5
 https://www.reddit.com/r/googlecloud/comments/1sdmg4w/gcp_data_engineer/
 https://news.google.com/rss/articles/CBMif0FVX3lxTE5OVjM5OUFqSFZCZXFWVmJHcXhaVzdKcktPbE9PS0FlNEs2RWxlM2o0aEhwWUF1QTE2azRydGh2UnNZc2tBSllPcnJaV25TMW1TT0hMXzVIaGpkVEp4NkR0Q3NmVEdlN19qZzBfUWUzQzhRYU4xSlVMRlRsQjB4QjQ?oc=5
+https://cloud.google.com/blog/topics/systems/ironwood-tpus-deliver-37x-carbon-efficiency-gains/
+https://cloud.google.com/blog/products/business-intelligence/looker-self-service-explores/
+https://www.cncf.io/blog/2026/04/06/peer-to-peer-acceleration-for-ai-model-distribution-with-dragonfly/
+https://www.reddit.com/r/googlecloud/comments/1scita3/when_did_google_cloud_logs_start_truncating/
+https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nZFBibXdrQ205dXFsWkJRNFNYcHFQTUZmalN2R0otVXVldVJTRjl5NUFGN2NxN3kwUGJhUXd1RUY3ZXdUbzZBVkUzb2I2Q1lzYWVFN2s1UVoyZjlUbmc?oc=5
