@@ -915,3 +915,6 @@ https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ2g5UURCTFhPVHJvZGdHYVNtY3N
 https://openai.com/index/axios-developer-tool-compromise
 https://www.reddit.com/r/googlecloud/comments/1shgu71/unexpected_368k_google_cloud_gemini_api_bill/
 https://www.reddit.com/r/googlecloud/comments/1siylgg/looking_for_a_gcp_dev_ops_consultant/
+https://openai.com/academy/skills
+https://www.reddit.com/r/googlecloud/comments/1sjzat3/api_key_compromised_13428_fraudulent_charges/
+https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWSldSbl9ieXZidlc4NEw3bl9yR2NROFRLUVg5R0djVTItWEc5Tlc2QUwwLXllM29XTE5wcC1lb3hfVUd1dlVCQWE5NGFYNC04VWhhNUN2SUZSMlRDZmdxbC1PNNIBY0FVX3lxTFBWSldSbl9ieXZidlc4NEw3bl9yR2NROFRLUVg5R0djVTItWEc5Tlc2QUwwLXllM29XTE5wcC1lb3hfVUd1dlVCQWE5NGFYNC04VWhhNUN2SUZSMlRDZmdxbC1PNA?oc=5
