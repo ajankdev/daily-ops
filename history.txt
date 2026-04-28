@@ -997,3 +997,10 @@ https://news.google.com/rss/articles/CBMipwFBVV95cUxPSFFtSUctaGJIM2hBT0QzbjZuZGx
 https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DaE90MVFmV2NhNW56eDYxZGRBaFJEaEdndEZGMUliUnRjczJlQXlnYWtKX3NySWg1bUhRa1ltWUoxXzg1M2JpMmh3THh5dzA?oc=5
 https://huggingface.co/blog/deepseekv4
 https://news.google.com/rss/articles/CBMirAFBVV95cUxOQlJGX3paVWFxR18tVXM4aE0yZE1IQTJ3VDVJWnF5alFvRk9sbDFrRHdCRkk5bExHU2hyRVlPUXJFNHVFZHAwTVZ1NUtrRmNsNUtKSUZKTUhsakVfeGV1TF9lRDZ3RzRQZGFXMDYtUENXdmZFd2Z3Z1dSVGZ6UXBpODUxaEdqQU51c1d3M2JoaXhFTFluSEJVNmo1VUVUcXFuZHY3S2tQUGZURkM5?oc=5
+https://cloud.google.com/blog/ko/products/compute/ai-infrastructure-at-next26/
+https://www.cncf.io/blog/2026/04/27/kubernetes-for-platform-teams-leveraging-k0s-and-k0rdent/
+https://github.com/vllm-project/vllm/releases/tag/v0.20.1rc0
+https://openai.com/index/open-source-codex-orchestration-symphony
+https://openai.com/index/choco
+https://news.google.com/rss/articles/CBMif0FVX3lxTE5FUkxiUi1TMHgycm5EM25zWFJYbTBxbENmQi1oQ1pfdHFZTU1OcE90U3pTXzRON3FGZ29MYmJ0RHJiSHF1ek1KOWhwM1hxUGkxVU42bDZLODhpNm1lc3dwYWN3SVRVOVcydU85S3A4NDg1c3Ixenl0SmJzamNVNmc?oc=5
+https://news.google.com/rss/articles/CBMilAFBVV95cUxPcWYtQWx0OFJ1VERTRmt0OGpBTWVoLTVqMk9kbDU1cElzLURERmVISEZDeXMxZXhwOG9tajdMMnpfZ2hZeDIwVUxsU3VZOExkcS1CdTdwVUhoM0NaVjB4NTJuUzZSdEtmdUN6WW5VdlMtTTBLSXpYVXVOVFRnMURGeXNMT3pCQThNSFJDR1phaU1iYU45?oc=5
