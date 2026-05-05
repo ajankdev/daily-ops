@@ -1028,3 +1028,6 @@ https://github.com/vllm-project/vllm/releases/tag/v0.20.1
 https://news.google.com/rss/articles/CBMipAFBVV95cUxOdE9scVVRRE9ic3YwcS1DZHZjZk9tVjhHMUdMV3Y5LUFucGRmN1BVTV9JcU5PT053NkI5TlBhQlZhQThxRVhkX0FXV2RpRGtndjFnN2k1ZEJEYVB0Vjh0cHVvRnZYaFo5Rk93T1IzWTBuWU9VSm8zLXF0dUN2OUIzQ1hwdWNPQWU4c2tIcFA0MHR6c3RWc25GMUdHWVE1cDVvV1E4eA?oc=5
 https://www.reddit.com/r/devops/comments/1t26rnm/ai_coding_tools_are_now_a_cvss_100_cicd_supply/
 https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QNVItdjlNenkySWZPYV9wQUs2Z2NjWFlyampTbGh3T1AxQk9tS1NCMGZTOGJyRHU4M2dtNllNcGNhLVRrd3hNS1FMWTBEM09WV2VOclFMMjhBS3FnbVFPMUNRT21nZw?oc=5
+https://openai.com/index/openai-pwc-finance-collaboration
+https://www.reddit.com/r/googlecloud/comments/1t3c7l9/15k_in_gemini_bill_within_hours_due_to_abused_key/
+https://www.reddit.com/r/googlecloud/comments/1t3es16/next_26_wrapup_take_a_shot_every_time_they_said/
