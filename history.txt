@@ -1155,3 +1155,6 @@ https://www.cncf.io/blog/2026/05/21/how-netease-games-achieved-30-second-llm-col
 https://www.reddit.com/r/googlecloud/comments/1tit8wm/extremely_disappointed_with_google_cloud_firebase/
 https://news.google.com/rss/articles/CBMiowFBVV95cUxNejhyZkt4R20ycmwtcnlCdkp6X2Y2Ul84S2o2QkNDWmYxeWo5NWpYeF9vRlRrQjVoZlVpaUNjQ25BS3J1TzhDMHc4Y0NvRllqUEtkVFR4emJ1RWhUQjF1Ujl0MmJDYk54MVM3V2hQQTVwMjNFb3FHanBfVDNHa0cwRzktbWlRWHU2M1dYV0M2TE53YU1jVzNDMjNWTm5CdnRIQkt3?oc=5
 https://news.google.com/rss/articles/CBMidEFVX3lxTE12WFJ4ODFhZ29kS1ZyQWhTZHdMRTJxQTFXUzJvZUtyeXhZeUZVUTdVdmJzMS10TUxPZTRZTUxXWDFCeER4MFhWOHptQjhjSDJYY1E2RmZkbi1JcWVQZ3lPSW95WDBqUVM5eWtRWlhKYU5sTWl5?oc=5
+https://openai.com/index/gartner-2026-agentic-coding-leader
+https://openai.com/index/virgin-atlantic
+https://news.google.com/rss/articles/CBMidEFVX3lxTE1jLVNkWmlZMkliU192NHN1d00wc1lqX1ZvSXMtejE5a0JyRElsYlNiNUdkVzltMm96alNXNXR2Vy1EMEZDcmlXU0gzZ1JOUlg2bXRVTW9fUUFKY0Z2Q1JXMTBvdWVYUmtvRkhKeDVBc2lDMU9T?oc=5
