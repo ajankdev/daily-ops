@@ -1158,3 +1158,5 @@ https://news.google.com/rss/articles/CBMidEFVX3lxTE12WFJ4ODFhZ29kS1ZyQWhTZHdMRTJ
 https://openai.com/index/gartner-2026-agentic-coding-leader
 https://openai.com/index/virgin-atlantic
 https://news.google.com/rss/articles/CBMidEFVX3lxTE1jLVNkWmlZMkliU192NHN1d00wc1lqX1ZvSXMtejE5a0JyRElsYlNiNUdkVzltMm96alNXNXR2Vy1EMEZDcmlXU0gzZ1JOUlg2bXRVTW9fUUFKY0Z2Q1JXMTBvdWVYUmtvRkhKeDVBc2lDMU9T?oc=5
+https://www.reddit.com/r/googlecloud/comments/1tk7knr/not_sure_why_people_arent_talking_more_about/
+https://www.reddit.com/r/devops/comments/1tlbyqj/everyone_in_my_company_is_discovering_that/
