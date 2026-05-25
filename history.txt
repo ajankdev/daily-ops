@@ -1160,3 +1160,6 @@ https://openai.com/index/virgin-atlantic
 https://news.google.com/rss/articles/CBMidEFVX3lxTE1jLVNkWmlZMkliU192NHN1d00wc1lqX1ZvSXMtejE5a0JyRElsYlNiNUdkVzltMm96alNXNXR2Vy1EMEZDcmlXU0gzZ1JOUlg2bXRVTW9fUUFKY0Z2Q1JXMTBvdWVYUmtvRkhKeDVBc2lDMU9T?oc=5
 https://www.reddit.com/r/googlecloud/comments/1tk7knr/not_sure_why_people_arent_talking_more_about/
 https://www.reddit.com/r/devops/comments/1tlbyqj/everyone_in_my_company_is_discovering_that/
+https://www.reddit.com/r/googlecloud/comments/1tm8xvh/spanner_omni_is_a_massive_win_for_local_dev_loops/
+https://www.reddit.com/r/LocalLLaMA/comments/1tkfvvj/deepseek_is_pushing_forward_with_1029_billion/
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYmh2R2ZDbnB3V19TdVY4YjhHMWNCclhTNmd4Zi1OZmtCcE04cjdFakd0a0VIYmdpaDlFZERYQzVHWjd5U1Q0V0JFV2J4XzRMWWp1QzYzV1hZMDRzTTJpSm1yakFDZkFCWUczdjZXUGJfNktlc3VyMUJFMEg4cmVzd21Da3A3VjJ0Y1ZhTFV6LUxoYXVBa1g5WHRDWmFDdVNBeEo3Y1JhVFVGQQ?oc=5
