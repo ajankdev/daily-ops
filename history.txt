@@ -1163,3 +1163,8 @@ https://www.reddit.com/r/devops/comments/1tlbyqj/everyone_in_my_company_is_disco
 https://www.reddit.com/r/googlecloud/comments/1tm8xvh/spanner_omni_is_a_massive_win_for_local_dev_loops/
 https://www.reddit.com/r/LocalLLaMA/comments/1tkfvvj/deepseek_is_pushing_forward_with_1029_billion/
 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYmh2R2ZDbnB3V19TdVY4YjhHMWNCclhTNmd4Zi1OZmtCcE04cjdFakd0a0VIYmdpaDlFZERYQzVHWjd5U1Q0V0JFV2J4XzRMWWp1QzYzV1hZMDRzTTJpSm1yakFDZkFCWUczdjZXUGJfNktlc3VyMUJFMEg4cmVzd21Da3A3VjJ0Y1ZhTFV6LUxoYXVBa1g5WHRDWmFDdVNBeEo3Y1JhVFVGQQ?oc=5
+https://www.cncf.io/blog/2026/05/25/why-kubernetes-policy-enforcement-happens-too-late-and-what-to-do-about-it/
+https://www.cncf.io/blog/2026/05/25/zero-downtime-migration-from-ingress-nginx-to-envoy-gateway/
+https://huggingface.co/blog/agent-glossary
+https://www.reddit.com/r/googlecloud/comments/1tn4vzl/i_love_the_new_next_26_agent_features_on_vertex/
+https://www.reddit.com/r/LocalLLaMA/comments/1tna22m/the_financial_times_has_published_an_article/
