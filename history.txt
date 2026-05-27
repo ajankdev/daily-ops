@@ -1168,3 +1168,14 @@ https://www.cncf.io/blog/2026/05/25/zero-downtime-migration-from-ingress-nginx-t
 https://huggingface.co/blog/agent-glossary
 https://www.reddit.com/r/googlecloud/comments/1tn4vzl/i_love_the_new_next_26_agent_features_on_vertex/
 https://www.reddit.com/r/LocalLLaMA/comments/1tna22m/the_financial_times_has_published_an_article/
+https://cloud.google.com/blog/products/chrome-enterprise/new-study-securing-ai-in-the-browser-is-a-top-priority-for-it-leaders/
+https://www.cncf.io/blog/2026/05/26/how-jaeger-is-evolving-to-trace-ai-agents-with-opentelemetry/
+https://github.com/vllm-project/vllm/releases/tag/v0.22.0rc1
+https://github.com/NVIDIA/k8s-device-plugin/releases/tag/v0.19.2
+https://www.reddit.com/r/googlecloud/comments/1to9y2p/the_sql_instincts_that_will_hurt_you_in_google/
+https://www.reddit.com/r/devops/comments/1to04xf/anyone_else_frustrated_with_github_lately/
+https://www.reddit.com/r/devops/comments/1tm44jv/can_you_share_your_cicd_pipeline_approach/
+https://news.google.com/rss/articles/CBMi6wFBVV95cUxPczhBaUJXTWtpOFpQWkhhTm42U1FsNUNTQ0I5cFRkWVpZX0NDWUZkcXZGQ2ljTlhJLXlNZ3g5MHhNYTV1NEZsSzB2SXVfVDV1LVlycEhJMlNFd1NXLWh2bjZqazBGWl9wemFZNTZndkpuLTJ5RzRtZW41Zmhwb2o1b0t4RnZBeUxaT2pJXzUtSmdua3QzTV9qa2J0UVlTZjhXWDlZemkyYndSZXdURTFoVXZzb1BRMVFfRjJ3RTRZOUItYVdZd2FRRDhMNGhfOHdaVFpBT1J6RDFiN1BHOUhjVlNMYzZFbVpERTJr?oc=5
+https://news.google.com/rss/articles/CBMieEFVX3lxTE1nRm96cGFFV29SY0hoZ2tydmIyeXJ0bXNEMlFFcXFNa01ja0VFUWpoNVNJbmJCRWoxQnhBcnBBUV9RTkUwVHJkYVE5X3NyRVVQSjMxOW1YNy14UFFWZC1HRFV4UzZLdnlPdW1vQzk2akpoVUJCMjhlQw?oc=5
+https://news.google.com/rss/articles/CBMicEFVX3lxTE84SkZ4T2NFUFR5c3FCbUk4UHBXR3lhdjNfbGlvRXh0eWRuaWxfZzA4UjlTNnM2ZVhLbllHV1RBUnQ2a3hPWVFwWUp6eUZzeHhkbndsWmh3VzRGUUI2a25iaEJZUHlmeTZnaC1qWEZHczk?oc=5
+https://news.google.com/rss/articles/CBMirAFBVV95cUxPYlFRanBjeHdQZGJfYUluRjBCOEp3SWJjYUVnVF9KeVBrYWpNd2x1T2QyNU9oS1pKeS01dEphLVZHQmZFQzFTNVZOMnNFN0NWZzJ5YUpDbnI3YTNEUU83cXFiNUlEQ0ZvMVN0clR2ODJUa0FReWt5dThydWNnaWc5aW13ekZYQVJaOUVFTU5Jdmk1Q202dHVFM0tMV2pnVmpMc25pRDZGLVpydHRm?oc=5
