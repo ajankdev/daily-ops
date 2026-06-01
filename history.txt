@@ -1205,3 +1205,4 @@ https://github.com/vllm-project/vllm/releases/tag/v0.22.1rc0
 https://www.reddit.com/r/googlecloud/comments/1tr4vp8/google_cloud_billed_me_19000_usd_r105000_brl/
 https://www.reddit.com/r/googlecloud/comments/1tqwlau/i_ran_gke_autopilot_against_standard_for_three/
 https://www.reddit.com/r/googlecloud/comments/1trg05v/how_do_you_securely_connect_your_agentic/
+https://www.reddit.com/r/googlecloud/comments/1ttat89/cloud_run_vs_cloud_functions/
