@@ -1206,3 +1206,11 @@ https://www.reddit.com/r/googlecloud/comments/1tr4vp8/google_cloud_billed_me_190
 https://www.reddit.com/r/googlecloud/comments/1tqwlau/i_ran_gke_autopilot_against_standard_for_three/
 https://www.reddit.com/r/googlecloud/comments/1trg05v/how_do_you_securely_connect_your_agentic/
 https://www.reddit.com/r/googlecloud/comments/1ttat89/cloud_run_vs_cloud_functions/
+https://cloud.google.com/blog/products/containers-kubernetes/gke-standby-buffers-speed-up-autoscaling-for-less-spend/
+https://www.cncf.io/blog/2026/06/01/dynamic-configuration-for-cloud-native-swift-services/
+https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption
+https://www.reddit.com/r/googlecloud/comments/1ttovzi/gemini_image_generation_is_inconsistent_anyone/
+https://www.reddit.com/r/platformengineering/comments/1ttv8w2/tryna_discover_infra_problems/
+https://www.reddit.com/r/LocalLLaMA/comments/1tu82wi/stop_asking_what_model_to_run_there_are_literally/
+https://news.google.com/rss/articles/CBMipwFBVV95cUxNX3BqaEVLT2xtZ0tkTHRNZlVHZjFFT0Y3ZmVNY1Zoc09YTEEwQS1HQnlTN1BHLXRkbFdVclJIaXJGN2tUWU1FX1U0alhSNnc5QUp0alNBYjlGNHVTZlRHSWt1WGFSSFY5WUpfb2hkZ1E0c0RSVjJuRzZNOEZ5ZUZENXkwdkdkck02SVc4MWFiQWs0c0t1ZldsZ2wtNDhUV0U3QTgzMFgxdw?oc=5
+https://news.google.com/rss/articles/CBMibEFVX3lxTE90bEdSUU5JVzhxbnpMN0NEcXhnb3VEdzdxTkpaUXA1TFNtSDNzZXp1Y2RBc0tfOEx0RXNNUk95dFAxOUdJdmM3SDRpaTNDd2FqdzZsVVk1S1NVZzFFSVFUdUwzSFlBRXgySU1DNdIBbEFVX3lxTE90bEdSUU5JVzhxbnpMN0NEcXhnb3VEdzdxTkpaUXA1TFNtSDNzZXp1Y2RBc0tfOEx0RXNNUk95dFAxOUdJdmM3SDRpaTNDd2FqdzZsVVk1S1NVZzFFSVFUdUwzSFlBRXgySU1DNQ?oc=5
