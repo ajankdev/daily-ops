@@ -1289,3 +1289,6 @@ https://www.cncf.io/blog/2026/06/12/securing-ci-cd-for-an-open-source-project-lo
 https://opentelemetry.io/blog/2026/otel-arrow-phase-2/
 https://www.reddit.com/r/googlecloud/comments/1u47iqp/got_certified_as_google_cloud_platform_associate/
 https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wV245S3BTYVA4Wk94UUtsM004RDdqWDc2a24xX1JKbnFyZTBMa29FcDlMYlh1bTVha2xPWTRZamVDbk1rLXlpVkJsX2xzV3JNUUxiZlRpam9oTTA?oc=5
+https://www.reddit.com/r/googlecloud/comments/1u4ygse/how_did_you_get_reimbursed/
+https://www.reddit.com/r/googlecloud/comments/1u44omu/anthropic_managed_agents_can_now_run_their/
+https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWEQtdGpNUFBFNEpQQWlFZzZXRGJrZTZ6MWFja0FxMk9DcVlZR083R29NQmZFbTRmMUl5Q1FvTzZ4cXZHNElSX2tuNGp5UGI0Q0ZUZThXOVRlanlRY3Z0ck1mY0E1TzdLVE50SVB6QlQ1eVc1MC1DUXJmaVlubVJWVHg0YTlmZXNKMkFXZFBUbGpKbm9ON1BoZ29FdktBenhaUTdRcHRuMGxnOWx2aG9YM1pIWUIySkh5WEhscTdSWVo?oc=5
