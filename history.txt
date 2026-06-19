@@ -1308,3 +1308,10 @@ https://huggingface.co/blog/agentic-resource-discovery-launch
 https://www.reddit.com/r/googlecloud/comments/1u8dks3/google_is_finally_killing_unrestricted_api_keys/
 https://www.reddit.com/r/googlecloud/comments/1u8a0k8/composer_3_managed_airflow_kubernetespodoperator/
 https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NazRKbmR1WGN6ZGlJOTNsNlUzZG1FMGl0MmdZaFEyN3czMDcwb1cyUkVfOGRtc1JmNHBQWng5WDRqSzVJSlY1SWVOaExlbC11VTRxN1lEZV9faXFfMnRLSURaOFFIUQ?oc=5
+https://cloud.google.com/blog/topics/developers-practitioners/scaling-the-next-generation-of-global-innovation-how-google-supports-top-startups-around-the-world/
+https://deepmind.google/blog/securing-the-future-of-ai-agents/
+https://huggingface.co/blog/is-it-agentic-enough
+https://www.reddit.com/r/googlecloud/comments/1u93gav/gcp_associate_cloud_engineer/
+https://www.reddit.com/r/googlecloud/comments/1u91hiy/gcs_objects_publicly_accessible_200_ok_despite_no/
+https://news.google.com/rss/articles/CBMizAFBVV95cUxOeDJ4M1kwQm41cE9pQ01OSW10VG5WaE5hRnlYXzlOSEh4WDM0OG5MMWR3WEZleThSaFBPZUdIdHN0WG90WlhZeDNyaUxxWjNHRDZqajRvUnBoQmtqdlhOZEVYVUFiZ2xnQnFmaXhDS2k0c3hiZU1NSlZpNThKUHNJWm5vNDNoeU9WX281bHF2aWRGWUZ1UEplNmNJVGwwOENvOVF4Ulk4RHA0eW1nM2plMkVNejBKRFBlZkNQWVBva2VxSVFOMjk2dnVMOXc?oc=5
+https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT2JLQlVKQUE2RmJsaDlyUFB1aUdYNVVNVkxlaGtqOVRwLUhmX095NUpZcDF2MWNWQUpNU0FzVGljSUhxVFVwT1p5RVlqTy0xWXlGd2tCLWt2VXRqanpOX214ZmZHM3lsUlpMdmxUcE9WemhfM3N2RXhiSERTQVRCbVl2aHcwdGpJUDl4ZjFlMHpmMDdkanBkVDR5RVJjR2tFdzI3TUo2a05GemNJeXlrZzJoanVUMmdXajBhblNKWXNySEZCelJDbjdnRGtPWTduMmQybGlwWQ?oc=5
