@@ -1323,3 +1323,11 @@ https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qNHVzN3Zuam9fNW1hdVdLU0pKdE9
 https://news.google.com/rss/articles/CBMihgFBVV95cUxORFN5S1BuS1V3T3RoekJYclJvSGoxMG9lZDBSank3RTRYS2FKZDctc0Z1S1lDZ0VkNXNZRzlhVkJWNGMxbjZDaDdsWWVUNWo4UVJienQ5UmN6RmJ5dVBKSmlkOUV3eTAtMmlBd3VUZElwdVZUTXFmRE5ZdUlaSms3NXdkd1RJdw?oc=5
 https://www.reddit.com/r/googlecloud/comments/1ubj99n/gcp_multiple_credits_free_trial_genai_gfs_but_gfs/
 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRWJLXzBXOVZ5NlMtMG9jQXdLSlNZZWtSMVFKMmpJQ01OUTZzVGxod1NyN2wyR2NtUjVVclZ0bFk0MWJZWWZfOXdjdW1EUm1vcHRWZ195VUQ3S29IX2lpYS1pWlJNdGktRmRRQXJaOU9JX1ZUNW5wLTYyRHhVdmhtZVRFdXk4SEFNSloxV3hmc2NDUllUT05INl9McG9TVmVQNXhZM29pT3Q5TE1BYnFrbmFzMkpYQXdiam5teV9kZ1RBSjFsM0RveVZ5ZDdYdEtyODBSY29abzFwREhUcV92UFhZQURfX3hkOUE?oc=5
+https://cloud.google.com/blog/products/data-analytics/python-udf-in-bigquery-now-generally-available/
+https://github.com/NVIDIA/k8s-device-plugin/releases/tag/v0.19.3
+https://opentelemetry.io/blog/2026/deprecating-opencensus-compatibility/
+https://www.reddit.com/r/googlecloud/comments/1ucq5tv/starting_june_19_2026_gemini_api_will_stop/
+https://www.reddit.com/r/googlecloud/comments/1ucvnvc/avoid_surprise_to_find_all_your_unrestricted_api/
+https://www.reddit.com/r/googlecloud/comments/1ucjnhp/optimizing_tanstack_start_for_google_cloud_run/
+https://www.reddit.com/r/googlecloud/comments/1ucjfjs/what_backup_platforms_are_people_using_for_gcp/
+https://news.google.com/rss/articles/CBMiekFVX3lxTE9RamFXaUhLWl9BOHRjWmNpWGo5ZncwR2hoYzFhQk44M2JBT0NCVnBVNnpBSC1oN0ExcU9fanJGWk9pWHFuay1nNUVSQkRHQmozQUc1SENPWlJsMzZRSHE4RGE0aWdqX2dva015bW5GTlZVSjJIWHgwLTBn?oc=5
