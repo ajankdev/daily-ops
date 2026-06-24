@@ -1331,3 +1331,10 @@ https://www.reddit.com/r/googlecloud/comments/1ucvnvc/avoid_surprise_to_find_all
 https://www.reddit.com/r/googlecloud/comments/1ucjnhp/optimizing_tanstack_start_for_google_cloud_run/
 https://www.reddit.com/r/googlecloud/comments/1ucjfjs/what_backup_platforms_are_people_using_for_gcp/
 https://news.google.com/rss/articles/CBMiekFVX3lxTE9RamFXaUhLWl9BOHRjWmNpWGo5ZncwR2hoYzFhQk44M2JBT0NCVnBVNnpBSC1oN0ExcU9fanJGWk9pWHFuay1nNUVSQkRHQmozQUc1SENPWlJsMzZRSHE4RGE0aWdqX2dva015bW5GTlZVSjJIWHgwLTBn?oc=5
+https://cloud.google.com/blog/topics/telecommunications/open-models-global-networks-how-att-and-gsma-are-accelerating-innovation-with-gemma/
+https://www.cncf.io/blog/2026/06/23/agent-auth-a-lawyers-day-in-court/
+https://github.com/hashicorp/terraform-provider-google/releases/tag/v7.38.0
+https://github.com/vllm-project/vllm/releases/tag/v0.24.0rc1
+https://huggingface.co/blog/ibm-research/cuga-apps
+https://huggingface.co/blog/cross-origin-storage
+https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sZDg4Ml9WTFhZcmh1Y19NMWlHWHptSEpzak1TOGlrZG1nLVV2V1l5UHFpZGR2SFNGNUlaNTk0R1UtRGh4WEFqRVhUZ1ljMTZrX1pxazgxS1BRR0dlbVhVX29kRWZOLWNM?oc=5
