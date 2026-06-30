@@ -1363,3 +1363,11 @@ https://news.google.com/rss/articles/CBMimAFBVV95cUxNWXpGVHhHaWxDb2Nqbl9YZ2NDYjl
 https://github.com/vllm-project/vllm/releases/tag/v0.24.0
 https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGowcHRJN2I1TU5UbWY3NW5oTzNnSjRveXk5TFNjNkZreGh6cV9HWlpVdGxDR2V4T1VaWC1vYkFkV1ZiME9KeWFTUWNSYnJKWlBLcEE1SW00OWttbjByVmo0TDRPclhQMmRuSHhmRV9uekZYbUdfbnZZb2ZJRGFWRklQbGc2N1lTTlhURGhPc3VuWUN0dF94S3Y2MlZNcEJHMTNoZUJtSU5nYXZMWE1aYw?oc=5
 https://news.google.com/rss/articles/CBMilAFBVV95cUxNWF9ybThFYjFXaE15VGowTGE0bGxaWVJja2dnT29lNkNZSXRMdE8taElmdUtaejNQTDlIWnhRbTc0WXhZQjZwUXZOVTlVb2tHd2d0cDBMYUNrY2NDSTBkT3Vhc3ZyZkxsWE5VYmpHbkYya01pZGNqcDFRbTR1b1RjMmVsWnpLb2tObmtlbHpIMXVRemVY?oc=5
+https://cloud.google.com/blog/products/chrome-enterprise/turner-industries-blueprint-for-a-secure-cloud-first-infrastructure/
+https://www.cncf.io/blog/2026/06/29/otel-and-mesh-derived-metrics-a-2026-reference/
+https://www.cncf.io/blog/2026/06/29/etcd-operator-joins-cozystack-with-a-new-v1alpha2-api/
+https://opentelemetry.io/blog/2026/dart-flutter-opentelemetry/
+https://www.reddit.com/r/googlecloud/comments/1uj4848/55k_gemini_api_bill_from_firebase_ios_key_abuse/
+https://www.reddit.com/r/googlecloud/comments/1uitl97/gke_gateway_api_incident/
+https://www.reddit.com/r/googlecloud/comments/1uirpje/unexpected_billing_for_e2micro_vm/
+https://news.google.com/rss/articles/CBMiogFBVV95cUxQQWJqakVYcDF1V2kydTBzRGZyTW0wbE1ZRGR5cG40UVBfVkpVZ0Z2bTd1M0lWRDZZY0R4UUJ5eDAwaG9TcFZJa0NpU3RZSHc2ZmUtcFRqcGF1MEFsVzJUaWxLQW1WR2lpYjRSVjkwN3l5TkJxOHdaam84QUFVbUNBUENLWEo3bDhsMG5KWmdsYlFmQV9sQWVHVE5GMHg5dEtDd3c?oc=5
