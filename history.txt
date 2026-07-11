@@ -1433,3 +1433,6 @@ https://www.cncf.io/blog/2026/07/09/navigating-the-ingress-nginx-retirement/
 https://openai.com/index/chatgpt-for-your-most-ambitious-work
 https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ScnVpZjlfZEVRVGN2R1p5dkl2UnhTRVVkS0FINFhyZDR6QzV5bTlQXzRFaFJzSHZvb0s2aVpTb1I5N01mV1JLR0RIUWFEemg2R1J6QVVOV2pRTTdWMmVnenhmbFc?oc=5
 https://news.google.com/rss/articles/CBMifkFVX3lxTE5oaWZEaFJlQ1N1eElxaWE5Y29TVTlja0VLdVlINENiajJTbkZSUGI0Ym92UjRJMUZQQzdtZFZjdUVCXzJNUVNsZ1BMUUVlVFFjV0prVlJWX2sxRmdIc1BLTU90MTI0WEh1TWVLY3huNTFYdmRCemZ4SlpYTDVwdw?oc=5
+https://cloud.google.com/blog/products/identity-security/contributing-to-uk-financial-sector-resilience-as-a-critical-third-party/
+https://github.com/vllm-project/vllm/releases/tag/v0.25.0
+https://www.reddit.com/r/googlecloud/comments/1usv21k/why_gemini_api_doesnt_check_iam_roles/
