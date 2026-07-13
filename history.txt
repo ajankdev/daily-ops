@@ -1436,3 +1436,5 @@ https://news.google.com/rss/articles/CBMifkFVX3lxTE5oaWZEaFJlQ1N1eElxaWE5Y29TVTl
 https://cloud.google.com/blog/products/identity-security/contributing-to-uk-financial-sector-resilience-as-a-critical-third-party/
 https://github.com/vllm-project/vllm/releases/tag/v0.25.0
 https://www.reddit.com/r/googlecloud/comments/1usv21k/why_gemini_api_doesnt_check_iam_roles/
+https://github.com/vllm-project/vllm/releases/tag/v0.25.1
+https://www.reddit.com/r/googlecloud/comments/1uubz0g/cleared_my_google_pca/
