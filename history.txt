@@ -1511,3 +1511,12 @@ https://news.google.com/rss/articles/CBMipAJBVV95cUxQX01Kem4yRjFoMHUxUE9GTGt5R0V
 https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FMWV3bzNyWmlvTVNQRU96UWMwM2ppU0dYWjBwZEhjUUdWMUw4MkQybEh6UzAtYjF2LVhqWVB4M3IxSmFqRVZoc0FnSUtOUUFKbjlsQ0YteWZzWTFNMWlSaA?oc=5
 https://news.google.com/rss/articles/CBMitwFBVV95cUxNdVRmTmoxZldqSE5qcnIzX21DWFhFWmg4eDg0dzJVcnFpR01Udk5uVDNHY1lKeXhKa1pIcmR6T2dYVjJOa05VX2s1YWpsSVJsM3h4alFXeUdDcmtaS3lDY3hUQXU0bV9ndXB5STNIV09rdTZreGFpckV0c1EwYlFPQU9SNFJkQnNPTnMyaVlKSVRaamxhNDdZOGI4ZGFNMVM3SmR1UHBma1pLaFQ5MWhOTTBwRl9IcDg?oc=5
 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYjZsQkprcVBKNzZwN2VFYkRJWmYzLW9PbnRoVWwtYktIRGZVeXk2U2FIeHpfWFZJOEJ4eTl5V1VyNG1FNmlJdDNFS2VaT2RCV2Q5RFpXSk1MVUpBV2tmcWtsRUduU0llNVJ6NXB1S3d1dGxsZnRmcmVRYW5iSGZySEFtVjEyb1ZjbkVoOWhtWnlFUlhLczhXZHJTN3Rzek12Z2xCaldWa29ZVXJrOFd5clR5V2lIczRDY0tDMVdRLUpyb2ViQThWeV9jRGZtWW5FRklFSzVPZHhnMkhxQ1VmbHYwaHd4M2hSajV6ajh3?oc=5
+https://cloud.google.com/blog/products/containers-kubernetes/introducing-co-operative-time-slicing-for-rl-in-llm-d/
+https://www.cncf.io/blog/2026/07/23/launch-of-the-ai-infra-sig-under-the-cncf-japan-chapter-first-meetup-and-call-for-speakers/
+https://www.cncf.io/blog/2026/07/23/sustaining-opentelemetry-what-a-10-week-contributor-cohort-actually-looks-like/
+https://www.cncf.io/blog/2026/07/23/when-kubeflow-meets-cilium-debugging-60-idle-gpus-in-kubernetes/
+https://www.cncf.io/blog/2026/07/23/the-future-of-ai-is-community-driven-and-open/
+https://github.com/fluxcd/flux2/releases/tag/v2.9.3
+https://opentelemetry.io/blog/2026/kubecon-japan/
+https://news.google.com/rss/articles/CBMijAFBVV95cUxPcE9ZQjZYZ2RRR1RqeVBnOFU2alB1TzVsQXY4M1hGYXhNZWg3SzQ3UGI4MEFKWW1sOUpTUjNvdW9YQUREZFI3XzQ0dW5jcklwcDdsaERhckQyRG1DRl9PcXZ6VllmeHVLckVKN3EyMDl2LUJEeS1LU3BiaVhoWF93NXRjWEk1QnF0aUhzUw?oc=5
+https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYbUhOMXNONmxZaEc0V1BYX3dycDZIOUhWZGswbC1ieWR0U1dCR0lRNXZzRGdEVzV6N253OHhfbmwwWEFpZmN4M21BeHZaZnBxMjFJTWZSX0NGT1pEM2JUUTBWT3IyUGhZ?oc=5
