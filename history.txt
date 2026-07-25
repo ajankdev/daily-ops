@@ -1520,3 +1520,8 @@ https://github.com/fluxcd/flux2/releases/tag/v2.9.3
 https://opentelemetry.io/blog/2026/kubecon-japan/
 https://news.google.com/rss/articles/CBMijAFBVV95cUxPcE9ZQjZYZ2RRR1RqeVBnOFU2alB1TzVsQXY4M1hGYXhNZWg3SzQ3UGI4MEFKWW1sOUpTUjNvdW9YQUREZFI3XzQ0dW5jcklwcDdsaERhckQyRG1DRl9PcXZ6VllmeHVLckVKN3EyMDl2LUJEeS1LU3BiaVhoWF93NXRjWEk1QnF0aUhzUw?oc=5
 https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYbUhOMXNONmxZaEc0V1BYX3dycDZIOUhWZGswbC1ieWR0U1dCR0lRNXZzRGdEVzV6N253OHhfbmwwWEFpZmN4M21BeHZaZnBxMjFJTWZSX0NGT1pEM2JUUTBWT3IyUGhZ?oc=5
+https://cloud.google.com/blog/topics/threat-intelligence/updated-cyber-threat-actor-naming-system/
+https://www.cncf.io/blog/2026/07/24/my-lfx-mentorship-journey-with-kgateway/
+https://www.cncf.io/blog/2026/07/24/opentelemetry-has-graduated-now-what/
+https://news.google.com/rss/articles/CBMifkFVX3lxTE1lX0F5NmNCeTNLQ2ZxRE1hWDNYRVMtVWdZVUN3eFFjX1M2cEtiZzZBYkkwZnIyUVNBcnU5eW01a1EteHQ4VVlNWTN5TVdSMEhLTW9zQVFkVEFua1BQSVZWOEdyZ0V4Vl93ZmRZT1NiWlh3aGRsMjY0QXVSZUNZQQ?oc=5
+https://news.google.com/rss/articles/CBMigAFBVV95cUxOb21fVWxobF9TZGM2MGJjcDF1ck5vSXUyMTBuX094Wlc3UmRXLVBhcXptZ0REN2ZRYlNEMGc2ZWFYRHM0NFZOQ0hHNGJaRm1qT2ZJd1hwQ0ZoenJ4cEpZcFpyN05xRGxSbjAyX0JRMEduMHVyM25mYTNFR1dTTzFGcg?oc=5
