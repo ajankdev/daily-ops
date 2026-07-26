@@ -1525,3 +1525,6 @@ https://www.cncf.io/blog/2026/07/24/my-lfx-mentorship-journey-with-kgateway/
 https://www.cncf.io/blog/2026/07/24/opentelemetry-has-graduated-now-what/
 https://news.google.com/rss/articles/CBMifkFVX3lxTE1lX0F5NmNCeTNLQ2ZxRE1hWDNYRVMtVWdZVUN3eFFjX1M2cEtiZzZBYkkwZnIyUVNBcnU5eW01a1EteHQ4VVlNWTN5TVdSMEhLTW9zQVFkVEFua1BQSVZWOEdyZ0V4Vl93ZmRZT1NiWlh3aGRsMjY0QXVSZUNZQQ?oc=5
 https://news.google.com/rss/articles/CBMigAFBVV95cUxOb21fVWxobF9TZGM2MGJjcDF1ck5vSXUyMTBuX094Wlc3UmRXLVBhcXptZ0REN2ZRYlNEMGc2ZWFYRHM0NFZOQ0hHNGJaRm1qT2ZJd1hwQ0ZoenJ4cEpZcFpyN05xRGxSbjAyX0JRMEduMHVyM25mYTNFR1dTTzFGcg?oc=5
+https://github.com/vllm-project/vllm/releases/tag/v0.26.0
+https://www.reddit.com/r/googlecloud/comments/1v4dn0l/options_for_declarative_schema_management_on/
+https://news.google.com/rss/articles/CBMikwFBVV95cUxOYXZfNUVxbmFtTmJHUHdNSVBFUGhJMlhQT0NvWmhONHZFUndYbUVZNkl5T215VmNFaDFIc1l5Z1dZVWF2SWNOczhiTVc5cGxxbEVkUzVCelhRaGpYa0ZxbDRmdzU1SWUtQmRZX0xfMVlxTlZSakZ6cWJoQmlLanNaS1EyRmhPS1VRQTVfUWZZU0xxTDQ?oc=5
