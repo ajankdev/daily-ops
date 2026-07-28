@@ -1529,3 +1529,11 @@ https://github.com/vllm-project/vllm/releases/tag/v0.26.0
 https://www.reddit.com/r/googlecloud/comments/1v4dn0l/options_for_declarative_schema_management_on/
 https://news.google.com/rss/articles/CBMikwFBVV95cUxOYXZfNUVxbmFtTmJHUHdNSVBFUGhJMlhQT0NvWmhONHZFUndYbUVZNkl5T215VmNFaDFIc1l5Z1dZVWF2SWNOczhiTVc5cGxxbEVkUzVCelhRaGpYa0ZxbDRmdzU1SWUtQmRZX0xfMVlxTlZSakZ6cWJoQmlLanNaS1EyRmhPS1VRQTVfUWZZU0xxTDQ?oc=5
 https://news.google.com/rss/articles/CBMicEFVX3lxTE84OFBKQUIyY19paVVhRHZuRWxtSTIzaE14dTB0cHUyYTNiQkpSWTNhWExyN2hIY3BaWk0yQk5rSF80NkstSVQ1SzNNRjJXbjNybjNWN2M1UDVyUGtVTjhQRFJ1VDJRaUF6WlFJVWhWV1A?oc=5
+https://cloud.google.com/blog/products/identity-security/cyber-snapshot-report-enterprise-resilience-key-to-toolchain-success/
+https://cloud.google.com/blog/topics/public-sector/modernizing-the-skies-noaa-google-cloud-collaborate-advance-weather-forecasting/
+https://www.cncf.io/blog/2026/07/27/federating-clusters-for-zero-downtime-kubernetes/
+https://github.com/vllm-project/vllm/releases/tag/v0.26.1rc0
+https://www.reddit.com/r/googlecloud/comments/1v84pjn/query_regarding_centralized_logging_mechanism/
+https://news.google.com/rss/articles/CBMiYkFVX3lxTE14bVpDUmZCMFdpUXpLTURQQTllU0hIbE1xNjV5aFFGaklDZ2lfRkRGODBMM0x2d05aMmtDTW5JVGlQMXJkS19vQzREd000RHdka3pnZmxBN1lBN3NSNHJ3SjdB?oc=5
+https://news.google.com/rss/articles/CBMirAFBVV95cUxOLVFKTUR2M1JmQkxpckdUU3VWamVJZTFzQlZjUjdpSDM5Z1NybkxfQkNkR3FodmVYZklucGRZLV85elMzODdpRzUwY0l4V3ZKSUE1TnBtYlMyeGh3dUVzek1EVXF5N1YxNjE3cUc0ODJtaG5RRUJja3lhSFk2NXNXZkRiTEFEQmJNdUNtcmtVR1Z4dDd3RkhLQ0pnR3h5XzU2bFNVVnljTnIxX2FJ?oc=5
+https://news.google.com/rss/articles/CBMigAFBVV95cUxOdnlVOFo3T1M3UDVFcG9naUhDQk9BSGhfemlfQVY2amNoNVVudEdvelRHRXJpZENNZmpvUHZZOVBWaVhlMlhUbUsyTTA4MVhMUURGWnpWMFcxQk94UW9PaF9oZEE2UUplcmREbXZ3aWxFY0sxa1pwM3d0Z2ZVTUk3dw?oc=5
