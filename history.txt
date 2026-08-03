@@ -1567,3 +1567,4 @@ https://www.reddit.com/r/googlecloud/comments/1vd1nv6/if_google_doesnt_protect_t
 https://www.reddit.com/r/googlecloud/comments/1vd6ce6/seeking_advice_for_video_processing_pipeline/
 https://www.reddit.com/r/googlecloud/comments/1vcddfw/examples_how_to_harden_gcp_iam_using_conditions/
 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZjdYVXlRc2tQUmxNUXU4OE1tVE85UTA1UDNrLWhPdVlwUGhYRUF2MVo4OHVKMmlvUmdCcnpIdjByM2owdWQxT1pDVTNPNmM1V1ZRVGlyZmVBdXJnM3ZRM011RFVDdnIxcDFTZ09NNm1UYlh1YWk3b1ZjbGNUNHVhdjU0bFNpNHhEWnpnOHBYREtCcEJYS1pkakpjWER0ZldQNkpDUncxcHdxWnM?oc=5
+https://github.com/GoogleCloudPlatform/k8s-config-connector/releases/tag/v1.154.1
