@@ -1568,3 +1568,7 @@ https://www.reddit.com/r/googlecloud/comments/1vd6ce6/seeking_advice_for_video_p
 https://www.reddit.com/r/googlecloud/comments/1vcddfw/examples_how_to_harden_gcp_iam_using_conditions/
 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZjdYVXlRc2tQUmxNUXU4OE1tVE85UTA1UDNrLWhPdVlwUGhYRUF2MVo4OHVKMmlvUmdCcnpIdjByM2owdWQxT1pDVTNPNmM1V1ZRVGlyZmVBdXJnM3ZRM011RFVDdnIxcDFTZ09NNm1UYlh1YWk3b1ZjbGNUNHVhdjU0bFNpNHhEWnpnOHBYREtCcEJYS1pkakpjWER0ZldQNkpDUncxcHdxWnM?oc=5
 https://github.com/GoogleCloudPlatform/k8s-config-connector/releases/tag/v1.154.1
+https://cloud.google.com/blog/products/infrastructure-modernization/mainframe-migration-and-modernization-with-ai/
+https://www.cncf.io/blog/2026/08/03/cortex-completes-ostif-security-audit/
+https://www.reddit.com/r/devops/comments/1vdh4yt/where_do_infraplatform_engineers_actually_hang/
+https://news.google.com/rss/articles/CBMirwFBVV95cUxQSGtheVp3TjVkYjVleXRDb0c0aTZJeVhaMUFOdGJDclpSZmpKWk1fTFFVcVVuNmJCODVuVHpUbE95c3EzOW9wZ3ZvX3B0WWw4QnhrUWJEM1F6b3RZSHBiTVlPWFNZLXVESnQ4d0FWOFJQYmRxNjdDLVFvMF82YnpsTUJHLVg0RkE5N1Z0a0c3bFVVcUVMcGM0ZlhfNFpvaDFkX3NybktjeFRMYzJ4bE9j?oc=5
