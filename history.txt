@@ -1587,3 +1587,9 @@ https://www.cncf.io/blog/2026/08/05/opencost-1-121-0-first-of-a-kind-kubernetes-
 https://opentelemetry.io/blog/2026/cardinality-limits-in-opentelemetry/
 https://news.google.com/rss/articles/CBMinwFBVV95cUxQWm5WbUNVVjE2SEd6ZDlfOWxQU1FDR0twdUFMTmdqZnRDOTBhT1dIZW5pTlJBNW1tUVBRMzF3emR0Z01DaEZKYzZMU1ZGVnUwSFpqYm1JcGRERFUyNUVIelYtZlFYVENTbkJHY2JMbHBuT3JYejhZVWRfemtVYWlZT3dtUXB5aVJYX3ZRRHcyTXBySU1oX2hxNHdiRnRHVk0?oc=5
 https://news.google.com/rss/articles/CBMiigFBVV95cUxPS1oxaWdoNVFqd2JRVlVXdDZ4WFJXTjZwaF9EaEVOci1jUXR5VjF4SXFzR3pMTGhxTzlNc3Y5REhiVVBVeHZEVkxzMlRzTFU1cUhZT2hTSnU4Q1lQTEVyTG91ZEpSblBmbXJEcnhDelhDVGNhRzdacE9rdGFrazg5eXFGS2RwSkhMd3c?oc=5
+https://cloud.google.com/blog/products/identity-security/privacy-first-medical-ai-with-medperf-and-google-cloud/
+https://cloud.google.com/blog/products/data-analytics/bigquery-performance-optimizations/
+https://cloud.google.com/blog/topics/startups/mirendil-selects-ai-hypercomputer/
+https://huggingface.co/blog/baseten
+https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kLTFDQ1YyWGRwazk0RFVhdlYtQjAxdWp5WHo4ZGJqXzVVczhPLUNPTVE4VUlINS02VW8xNkE5VnVndG9ueXdyQXVldWQ1QURzQk5rcU5qRXBmVERpNTcxdThBNA?oc=5
+https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwQ2dZZDlKUmhmWEkwc1kyNW5ad2g0dFRoOEp2bVhFLXgtY3BUUW55T1BjYkFBVnRxTHF4TTNJTTdhNzI4N2p0c3hWbkNBZmNUOHB1NzB3OTV1dUdMVVg1THozUTZGZw?oc=5
