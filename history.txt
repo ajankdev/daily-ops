@@ -1593,3 +1593,9 @@ https://cloud.google.com/blog/topics/startups/mirendil-selects-ai-hypercomputer/
 https://huggingface.co/blog/baseten
 https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kLTFDQ1YyWGRwazk0RFVhdlYtQjAxdWp5WHo4ZGJqXzVVczhPLUNPTVE4VUlINS02VW8xNkE5VnVndG9ueXdyQXVldWQ1QURzQk5rcU5qRXBmVERpNTcxdThBNA?oc=5
 https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwQ2dZZDlKUmhmWEkwc1kyNW5ad2g0dFRoOEp2bVhFLXgtY3BUUW55T1BjYkFBVnRxTHF4TTNJTTdhNzI4N2p0c3hWbkNBZmNUOHB1NzB3OTV1dUdMVVg1THozUTZGZw?oc=5
+https://cloud.google.com/blog/products/networking/streaming-the-fifa-world-cup-with-televisaunivision/
+https://www.cncf.io/blog/2026/08/07/does-kubernetes-dra-replace-hami/
+https://www.cncf.io/blog/2026/08/07/shadow-ai-in-ci-cd-threat-modeling-the-path-from-developer-laptop-to-kubernetes/
+https://github.com/fluxcd/flux2/releases/tag/v2.9.4
+https://news.google.com/rss/articles/CBMif0FVX3lxTFBiekQ2MU94aTJzQ1VuYVBxX1h5TmZlSFhVYkdxeVgyeHRBaS03YWdaQlBCVFJlM2x0UlZ6Z0tWMTF2RmhhdkExYmd3dXdwVEdtNXdnNkpLcGZhaXFJTy1selFHMUZMVGtFZ2JZWDRDX2gwbnNkSFZnQVFvTV83TDg?oc=5
+https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3hTejhVVVRRTGlaNktVMXlYZjI2TUh2VmVHUk9MM2dhdUhNcWM3U003SzdWY1UtRkVqT0N3cE12ZkpZdURhcFFaeGtqUlZ3dDlHOE9yWlhMVTFTSHVyV1R1bnRRTFRSMHplUlIyUXZVdlN5T0NXcF9GbXBFV1FiUmdPeXZTTDk5N2k2N1lLcktObXpkam1UMFgzSjFGVzl4YmgwaFVVVFNrbDBFY3FhYnFacC1VVktmc3U0TEg3T20wbGxPOHc?oc=5
