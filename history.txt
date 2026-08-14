@@ -1625,3 +1625,8 @@ https://news.google.com/rss/articles/CBMifEFVX3lxTE9lNWF4ZVFYMFRrd2dMSzF1VlBlcGZ
 https://news.google.com/rss/articles/CBMihwFBVV95cUxPRWNERnEwMHdDVHYxdDJHU2NrWVRrVU5SeGh3aVFoYWVPSG01NGVQWEdSVTdFM0dXcmM0Qm9kOExJX21HbjAwZVo3dW9zSTEwY2FNMU1GelE5Zmc1RzFPVk1RMURTRlRoODFHaVFqZFpWSTVkdEt3b21fN1FLY0FqSEtINVJNR2s?oc=5
 https://news.google.com/rss/articles/CBMiekFVX3lxTFBtaEZOMkxyamgwQWdYZThkRFg1RUQ1NUpmdFlGZ01LTGsxb3VCSmtHa2RWOWVsZ1B1d1lXSFhFdk5YSjNFeXQwNFpENDBBTkZJVmJ5bElndUxSc3F0cjZpRU9tQ2RRalBjRm5XaVBqUkFYUVVJN2JFcmR3?oc=5
 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQclFOOTN3SGdMb19KVklmSnZ0R2JJd19heXVBZGZwZTBkeFhTTnVsY25IZEZReUlOclRmVVpUSWFZeEx4N21JVEFNcFVNdE9SeEhfaHNDbU1qakFyYXNvZkR0QW1sQ2R5dy1YZU9EQnl4MlRoM0taalVtaVFrQkxKeUtHWEtVTnFTdTRIX1lWRGE2d1RHM3pQSjc3RjJsZFU4WG5QTF9qWWV2R2tpalVnR2tiSmFxMlBCVGJQWWhEQ3Y?oc=5
+https://www.cncf.io/blog/2026/08/13/lightweight-dragonfly-deployment-p2p-distribution-without-the-database-stack/
+https://www.cncf.io/blog/2026/08/13/llmops-and-platform-engineering-who-should-own-the-ai-pipeline/
+https://openai.com/index/builders-guide-to-gpt-5-6
+https://deepmind.google/blog/introducing-gemini-3-7-flash/
+https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop
