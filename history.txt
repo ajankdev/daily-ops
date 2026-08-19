@@ -1643,3 +1643,7 @@ https://www.reddit.com/r/googlecloud/comments/1vq5z9c/can_i_pass_the_gcp_ace_exa
 https://www.reddit.com/r/devops/comments/1voki1m/how_do_you_test_ci_pipelines/
 https://news.google.com/rss/articles/CBMirAFBVV95cUxNYURvMGdlR1A1WXlfaXlpSUV6RWtWR2JLMHJzMkhuenAzU2Y1NXdjTmtSNUNEMzhjZVYtZ1ltZnlvdUE3UGVPUVVVeGlSQUE3OE5KMVNlLVo2Vjhka2lrOHRhbFdMY3RXX3pLSGo2bVRoSFZNSU5lN3Rhd3hhTnpld2dyNHRCRHdzUmF3VjZKWC1yVkZsNmFPamZpWHJDcktMWE93VF85a1lCcnlH?oc=5
 https://news.google.com/rss/articles/CBMixAFBVV95cUxOOHpKVnB4RVZic29GREZOQXo0SXYtaWZPRDU0bFQwRk1JR3ExampZRW9BT1JDWmZYWjVyNlVMWS1LRmxNTFJPX3JhN2pLZXlvME1QTVRwdnFoc24zU3ZrZ2F5ZDJTN2hJSUtaLU5jVjIwY1BOenhrRVZaTVBad1liYTk2Wm5SZVB3OHQ1SnJwN2p0eWdJRW1kMy1mem5JXzlOaFBXRXI4TUFKUUh4ZXlqOGk1aGJ6dnczUk45cUJTWDRhQy1w?oc=5
+https://github.com/hashicorp/terraform-provider-google/releases/tag/v7.45.0
+https://huggingface.co/blog/ibm-research/altk-evolve-hmm
+https://huggingface.co/blog/multi-vector-encoder
+https://www.reddit.com/r/googlecloud/comments/1vrmz75/gcp_professional_cloud_architect_gcpstudyhub/
