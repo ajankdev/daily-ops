@@ -1647,3 +1647,11 @@ https://github.com/hashicorp/terraform-provider-google/releases/tag/v7.45.0
 https://huggingface.co/blog/ibm-research/altk-evolve-hmm
 https://huggingface.co/blog/multi-vector-encoder
 https://www.reddit.com/r/googlecloud/comments/1vrmz75/gcp_professional_cloud_architect_gcpstudyhub/
+https://cloud.google.com/blog/products/data-analytics/lakehouse-runtime-catalog-helps-modernize-apache-hive/
+https://github.com/NVIDIA/k8s-device-plugin/releases/tag/v0.20.0
+https://huggingface.co/blog/LiquidAI/qad
+https://www.reddit.com/r/googlecloud/comments/1vsuaw3/our_gcp_bill_went_up_40_and_i_cant_figure_out_why/
+https://www.reddit.com/r/googlecloud/comments/1vsoyvs/anyone_running_googles_oss_finops_agent_in_prod/
+https://www.reddit.com/r/googlecloud/comments/1vruqy7/how_do_i_actually_use_what_i_made/
+https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ2R3Nzh1Z3d5RkFrQVVncEEyREhUdHlVV3JyMnc2NURMc1NhaFJ1UURwWTVpTEFWSzBCT1Q3Y2RrNExGV2lCZERqc0JlLVppTGIwNlBLNTR1MVVZVUhvQUNISnpzNGZ6UVM3MXE3LUJXeE5oVjhYU2VOYjlGNEJtLXQxN3RHRW1GX0lwSXhNWnJnWG1EQnRj?oc=5
+https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzZiZk1uNWNoaEdxSTBBaU0yWWl0bVNPd1NfcnVuVnhLdEpmNDNvV0ExcG1vR1hyTmZXYjV4dXNOUDhZS09jYXVKU3pmbXp6dnFvS3JrZ0VqMVlFZWw2R1U2elE3TjhSM0dHRkJJLUVZNm1EaGVBQTRnNUFhTWRFZlVOR3EtaGM1TlNqLWc3dXFsR2FzZWdKOFdCMU5PcVBD0gGmAUFVX3lxTE5jeHpJVXZLVHh1RXkzMGtOeEFZZXptWG53T0NpeUFqMlNIV1ZSZTRmWGUtbXFNb2FBbUhqbG9NRk1ydWo3dUR0ZDh3LTFLVjBpNnU1M19GZlI1cHVXZjFTUUJKRDY1Vk1faXlmdWFrU2Z1WHgzYWVCSy1VQ3pnejlwOG5zSkw2a1Y5ZlFaVTVabmVIYUJWS1JDbzNRajZlcFczeXJtN3c?oc=5
