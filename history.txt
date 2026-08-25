@@ -1664,3 +1664,7 @@ https://github.com/vllm-project/vllm/releases/tag/v0.28.0rc2
 https://www.reddit.com/r/googlecloud/comments/1vu971p/1m_ssl_certs_with_gateway_api_certificate_maps_is/
 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZXBHMElLMWlyRmt3N2NINnRtRTQtQTZMVUI4Qk05aFhVT2JyNmR5enM2aThKbEs0TXFTbFhuOFFlNzNUbFE4SUNQVUZfWjdFZV9CQW85WFM3ZTZoY2lKcVlvbFgyeU1YSEl0RkFVOGhxYVdTUGZ0N1hwbTktYjdPVXB5LTM5elBnZ3hUdTlwYlNIYk1xNDlKZXBtVS1EcFcyQUd6eXllRUvSAa4BQVVfeXFMT2VHc2RtX2VjY1JEUmhOX0U1VURfdnhPYXhwbEVOV0RKSU81V09Gb185VUdaMjZHTE5VMHdYNll3bENSV05kRDhhWGQ5VkRtWjNvQkhpdTg1dzUtczc5QnFXX0pmczRkV0ZsNHlHMTBlcVVqam40X0dIMC1VNjl1bEp5LW9GWEhNeXFjOGE4NE54RVFmZzJ5Q1RYNFFpVV9XYjhGWGxtMTVURVlIZ3NB?oc=5
 https://news.google.com/rss/articles/CBMihgFBVV95cUxPSlpZMFNjWnkyenFuTXdmc0tKU2JKaXJ0UHFOa0ZhQldQVEJoT2t4X1VBSXRNZ0xFMU9KTm0tSWdjVU1TS056OS04eGp2MGRyZ21SVGx1dzdpeWFHS29PVU1rbGlrVE1LMzdhdkRaaFdPZzhBVFNiNFJ5di1fUGlrNTRuMGNFdw?oc=5
+https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructure-report-agent-governance-and-security/
+https://www.cncf.io/blog/2026/08/24/automating-root-cause-analysis-at-scale-multi-signal-correlation-for-cloud-native-incident-response/
+https://github.com/vllm-project/vllm/releases/tag/v0.28.0
+https://www.reddit.com/r/googlecloud/comments/1vxfi88/ama_about_hackathons_at_google_cloud_thu_aug_27/
