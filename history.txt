@@ -1668,3 +1668,14 @@ https://cloud.google.com/blog/topics/ai-infrastructure/state-of-ai-infrastructur
 https://www.cncf.io/blog/2026/08/24/automating-root-cause-analysis-at-scale-multi-signal-correlation-for-cloud-native-incident-response/
 https://github.com/vllm-project/vllm/releases/tag/v0.28.0
 https://www.reddit.com/r/googlecloud/comments/1vxfi88/ama_about_hackathons_at_google_cloud_thu_aug_27/
+https://cloud.google.com/blog/products/containers-kubernetes/gvisor-sandboxes-for-ray-clusters-on-gke/
+https://www.cncf.io/blog/2026/08/25/stop-trying-to-learn-all-of-kubernetes-at-once/
+https://github.com/hashicorp/terraform-provider-google/releases/tag/v7.46.0
+https://openai.com/index/jalapeno-first-results
+https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing
+https://www.reddit.com/r/googlecloud/comments/1vx293i/is_there_a_site_for_tracking_live_gpu/
+https://news.google.com/rss/articles/CBMihgFBVV95cUxPcER1X0UxT3YzU3VOYkM4cHhHSlRyVDNpVkVIMUJmV1ZkUVdOd0dndFZhNzBCWmVXUGw3MG1yYmQ3Z3FMS0g4WHpEblVuRzdvS0RyaGFEcHU2Y3VmWWhmWnRjbkx2NEc1SUlSb0p5R2hybjBiNHVBUEtHdU03bmE5NjhUY0p2QQ?oc=5
+https://news.google.com/rss/articles/CBMihwFBVV95cUxNckJsY3g1d21HakJlZEplNlJoWllYSUZFMlhyUUdzUE0xczg3NG80QTRwNHdieU9rUEJLX3lpbXRManVKS2NWSm41RUZSNDdILU8ySndWQVJ5Wnk1aFBIRTNiWWF0bWhzY19peGJKU2dHMEE4b1plS3I2QU9ERWpuU05NT2V5TDg?oc=5
+https://news.google.com/rss/articles/CBMib0FVX3lxTE1FWU91bkRZSU9aMVpwVEEtLWR2MHpMc0RrbXBfSDZMaG9OZnJHZlYyRWVlNHYwaW5qcl9HSWwtSUJmdl9nbl83XzlWZW1UT0tLbkZ5dnRqaVZNek56OFREMWIybG1XaDFFQ1l4a1A0bw?oc=5
+https://news.google.com/rss/articles/CBMiakFVX3lxTE9TTlYxVkJhU0xKN21hd1BHNDBSejdkcUd4STBUVWQtWklUVU9BZ3NEVDhXWUw2UGpveDZGX25KaTEyNWZ2YlhQRGlXU3NXcXhEeVdTUFB0MHdZOF84MHdpUFIwcHB1d1gteXc?oc=5
+https://news.google.com/rss/articles/CBMib0FVX3lxTFAwdnZSc0p5LXVpTEx6QzZGSldVcHRCb0tFMlN2a0hsdkRoTEFxajNZV01OTnJjUUxLZTNWdW11VWVJSF8tTjZVbWZ6TTF3eld3V2JXVmM0S2ZucjVLSDNaSldDVjFtT2xxWEtWcWFBRQ?oc=5
