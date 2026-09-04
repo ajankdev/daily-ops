@@ -1720,3 +1720,7 @@ https://www.reddit.com/r/googlecloud/comments/1w4cdwx/pca_certified_and_active_i
 https://cloud.google.com/blog/products/data-analytics/bigquery-identity-columns-to-auto-generate-sequential-integers/
 https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/
 https://news.google.com/rss/articles/CBMirAFBVV95cUxQbzlnanBYeEM5ZXc5RW1mWUF5YUVTTjFQTWdoZzVNN0dBR1lJTkRVREMzc0tfQXNJYm55aEsxS0d5cTVPaUVIOVpLNGtxc21CdTAyWWxvMmUzSGNZYzhvV3d1UDNfYlJuYmk4SGtQN2NDbGJBT2dRbDQ0TDZaRUpGanRGYlp3S2JsS0YwQ3p0eUh5Z2FQSDlYWElINVd5MWdPN2FUenVDTjZ6Mllx?oc=5
+https://cloud.google.com/blog/products/compute/google-named-a-leader-in-2026-gartner-magic-quadrant-for-scps/
+https://huggingface.co/blog/grpo-with-trl-ifstruct
+https://huggingface.co/blog/funes
+https://www.reddit.com/r/googlecloud/comments/1w5bfse/bigquery_super_slow/
