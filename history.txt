@@ -1724,3 +1724,7 @@ https://cloud.google.com/blog/products/compute/google-named-a-leader-in-2026-gar
 https://huggingface.co/blog/grpo-with-trl-ifstruct
 https://huggingface.co/blog/funes
 https://www.reddit.com/r/googlecloud/comments/1w5bfse/bigquery_super_slow/
+https://www.cncf.io/blog/2026/09/04/cpu-gpu-why-ai-platform-engineering-is-a-heterogeneous-infrastructure-problem/
+https://www.cncf.io/blog/2026/09/04/kubernetes-isnt-new-but-ai-makes-it-scary-again/
+https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc4
+https://news.google.com/rss/articles/CBMikAFBVV95cUxONnlNNFBIcGMyLXpoaGtSRFdjVEZVa2NENk5QWFpkRzNzc2cxYmpHaVIxa3Y4YkQyb2hUdm9SeTNHOTdnV005ajFEc3ctQ01sV3BlZWtmUi1TZlV0VC1BLVNyV2FxYjZRZWVNQTRtMVc3YmtQNmRjV1VvN1V5RXNKZlRpUFZvai16WGtQNDl2UGw?oc=5
