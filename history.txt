@@ -1728,3 +1728,5 @@ https://www.cncf.io/blog/2026/09/04/cpu-gpu-why-ai-platform-engineering-is-a-het
 https://www.cncf.io/blog/2026/09/04/kubernetes-isnt-new-but-ai-makes-it-scary-again/
 https://github.com/vllm-project/vllm/releases/tag/v0.29.0rc4
 https://news.google.com/rss/articles/CBMikAFBVV95cUxONnlNNFBIcGMyLXpoaGtSRFdjVEZVa2NENk5QWFpkRzNzc2cxYmpHaVIxa3Y4YkQyb2hUdm9SeTNHOTdnV005ajFEc3ctQ01sV3BlZWtmUi1TZlV0VC1BLVNyV2FxYjZRZWVNQTRtMVc3YmtQNmRjV1VvN1V5RXNKZlRpUFZvai16WGtQNDl2UGw?oc=5
+https://news.google.com/rss/articles/CBMicEFVX3lxTE9kMXZULUk2VGppLVUzdl93eUlkN2psYlRad1ZjYVJDSjRYTWpqY3ZuUkpULUJhY1dhUU5aaXNCOTJrYnlxaDAyVUhDQWtaTndpdU5sUHVZWk81Vm5jb2VfZUpSZ2drcVhQU2R1VnduNG8?oc=5
+https://news.google.com/rss/articles/CBMiugFBVV95cUxPOHJLb1hEa1lTRE04YUZJS1RQZlhmYmh4U3JnLTg1U2lOb3NaSG4wdnhjUkdGTGFnbnhKSkEzRG01U1RJNkxuUHUxOGZzMmtLVXNCQ1hBdFI5V0pBeV81RnFfTE1jdGxMelVkMy0wc0hCajZia3laYkd3TFJiN2FLeVZoN3phUjZLamZMcjI1M3ZOanJhMUVfR1dRZVhWSWpnUUF1UGlWSWJSc25ldHJxSk52SFVjRlZ3akE?oc=5
