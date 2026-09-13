@@ -1761,3 +1761,5 @@ https://openai.com/index/scaling-storage-one-billion-users-part-one
 https://opentelemetry.io/blog/2026/environment-variable-context-propagation/
 https://www.reddit.com/r/googlecloud/comments/1wcnkqr/creation_of_iam_groups_as_part_of_landing_zone/
 https://news.google.com/rss/articles/CBMic0FVX3lxTE1pMjlka0N1NFVjV1NER3RXeEN6bEh5VDlmOEM1ZTFtd2tZV1hfcGlvRU50ZjR0b0tzUEVpX0hOU0xwYkVIUlIwVC1iSVJYRVNQZzNDQm9mcV9uWlNFeXlldFQ1TVh0ZWtQc2diLTVpVXMtbzA?oc=5
+https://www.reddit.com/r/googlecloud/comments/1weh9x7/passed_the_gcp_professional_cloud_architect_exam/
+https://news.google.com/rss/articles/CBMibkFVX3lxTE9TTjRZcnNHMVc5bzRGdTNueDE4TWJZSGFqSHVtejFuUXlCemkxTnpScTFUUV9BOHc3V2RWSVkwS1RNQUl0NnQydTZGZzdrTXFBeE1GSGhFSElpM1M2alUwRXl1Ul8xY1prWEx1QVNn?oc=5
