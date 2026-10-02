@@ -1890,3 +1890,10 @@ https://news.google.com/rss/articles/CBMiXEFVX3lxTE90bXRieExkTDQ2dEQ1V2IyRDJrX09
 https://news.google.com/rss/articles/CBMib0FVX3lxTE1PX3hWVnRiNjdFdVFOWXVGM3R6RXJPOEd4ektLc3lqczcwc3Y0N3VfeVhMejhySC1tV3N0dE1Fa25OM2dJa0ZBbFZJYWhna3FIbUpLa1NEcUM3WktfTXl6RTgzaWdPSWl0QmdZY0pFNA?oc=5
 https://news.google.com/rss/articles/CBMimgFBVV95cUxPTTN0aGRabkxkbHNveGtYb2N6bGlFU2JqM19RMklURW5oZ3pjcE0wdlNvWDQ3dHRIZ3N4ZjhvUnJBdFJ0RzYtVUNISVFXSGoyc0pYYkwtLTBsNFpjVnBwY3lpdVdNRWRXM1ZRR0tlWnZiUkZSY3BSQTl1aDRoX2Z6X3g4YUtQU2l3OHJMOHVlRFYza1ctQVlGLXhR?oc=5
 https://news.google.com/rss/articles/CBMidkFVX3lxTE9ONFhHWEZMeTlpaTVZU1I5aEItX09tUXZkWkFNdlBGaWViNGdFTzZlbTJvS2xlamxKUFlxYzFaNDBGOUdNS2F1Mll6RjdlMVkyNjVlREc4M3VQTEdkZWY5dGxWY0E5cUVIU2xDeTFlSmdUSlVJQ0E?oc=5
+https://cloud.google.com/blog/products/storage-data-transfer/enabling-end-to-end-checksums-in-cloud-storage/
+https://cloud.google.com/blog/products/data-analytics/paypals-journey-with-managed-service-for-apache-spark/
+https://cloud.google.com/blog/topics/developers-practitioners/democratizing-managed-lustre-with-lower-cost-and-frictionless-development/
+https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-build-your-infrastructure-engineer-journey/
+https://github.com/hashicorp/terraform-provider-google/releases/tag/v7.46.1
+https://huggingface.co/blog/ServiceNow-AI/autosynthdata
+https://news.google.com/rss/articles/CBMivgFBVV95cUxOSTJ6MFhCWkdzOTRhNFpGZnU4RXVvY0Y4OXJ3SDhyUkhGVTN6MUdhN1NBX1F4UmNPWm4xZWU0cHM5VHc1WEUxdE5OWWIxdnF4c0x5RHJuVkF3bnQwLUtOTzN4S21XR2IxaGpFSGtueUdWT2pRNFdfeTN6OTZnVFV2bUQwN2oyQTdSOUF2THE5OWZYLVVob1RzRXliWjBmellNSWYzRDJwMUQ5THFVclJrdWNFU0pBbXQtanNQUURn?oc=5
