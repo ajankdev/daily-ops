@@ -1915,3 +1915,5 @@ https://fluxcd.io/blog/2026/10/flux9s-ga/
 https://huggingface.co/blog/microsoft/thinkingbox
 https://www.reddit.com/r/googlecloud/comments/1wxocm9/you_need_to_be_spend_capmaxxing/
 https://www.reddit.com/r/googlecloud/comments/1wxkffx/are_gcp_certs_valuable_in_the_iob_market_like_if/
+https://opentelemetry.io/blog/2026/obi-trace-log-correlation/
+https://www.reddit.com/r/googlecloud/comments/1wwvu62/gcp_dns_filtering_for_malicious_domains/
