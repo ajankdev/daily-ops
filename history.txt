@@ -1917,3 +1917,13 @@ https://www.reddit.com/r/googlecloud/comments/1wxocm9/you_need_to_be_spend_capma
 https://www.reddit.com/r/googlecloud/comments/1wxkffx/are_gcp_certs_valuable_in_the_iob_market_like_if/
 https://opentelemetry.io/blog/2026/obi-trace-log-correlation/
 https://www.reddit.com/r/googlecloud/comments/1wwvu62/gcp_dns_filtering_for_malicious_domains/
+https://cloud.google.com/blog/topics/developers-practitioners/announcing-mcp-toolbox-java-sdk-v10-agentic-data-access-for-the-enterprise/
+https://cloud.google.com/blog/topics/developers-practitioners/networking-for-ai-inference-model-serving-gke-only-and-for-all-other-backends/
+https://github.com/hashicorp/terraform-provider-google/releases/tag/v8.6.0
+https://github.com/GoogleCloudPlatform/k8s-config-connector/releases/tag/v1.158.0
+https://openai.com/index/advancing-computer-use-with-ironclad
+https://news.google.com/rss/articles/CBMingFBVV95cUxOR1pIWHVsaDFjbTdyNzFtQnZBcVJNTVlGOTZsRmlPY21uV1dILUoxV3hsUHVOVmkwemlmQ05NTEYtNzJFZ0RQU2RuNk9US3V4Wmx1Tzc4NnNkMmhnbnoxejNUQjVmNFdBbFB0YW9pUmktV0FjbVNVUU55VUpiQnBObGhjX3pyU2pRVnRqZ1NQWUlmTy1TYlRzYXF1QzBXdw?oc=5
+https://news.google.com/rss/articles/CBMibkFVX3lxTE03YVkwWjNObURUd1YzbzJOWlNSZUZhZGllSHRPSUhBTzdaZWtUX2pob05kUzlWRXZVMDlyWWxYZGwwb1FuVUhhRjhmalcwWDRQVmREX1UzZ2t5Z1U2ZG41ZkNCd3lzdGhxSjg1andR?oc=5
+https://news.google.com/rss/articles/CBMitgFBVV95cUxPbnMzeDEwNUM4b2xhbEdfM21pa0pOaVVfUThCQXJmSTdoNFZoYzJ0WUVPLWNWaFlKMmw5VkRlN0pSc1YydEdzVTdPd2g3eHUwOWdPS3pha1FTaTdjTjRGVkhUY3BOOVFkMGswOVpaT3RPRTVTSkIyeTVtWEVYYUtTMGNIVXdCYllDdDk4eWJFZTEwSTA3OGJZWlpOejg4MWdDeDFtQnd0ekFJRWJveFRFWlZxR213QQ?oc=5
+https://news.google.com/rss/articles/CBMigAFBVV95cUxOdnA4clQwSUk3YzNnc0tHR1ZxN3M2WW1pdmdMUUJZZXM1TFYxY2pQdGtTTHBzb0NxTkpCanJ5MmtHOFFHYWJGQjRtekZpSFYyS0RnMmIzTWZiRGxIV21ZOFdVaWVab0U0TXhaSWZfNnFtUnI2ZEViR3JqMnJOZ0VEMw?oc=5
+https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WaExhSURRUkRYSDFyWWIyRUpKR0ZiVWZlSXUxVDMzODRLb09TUUlrWUptc1NOTXVFRm1uZFB4b2gxcHptTG4tcEJySlkydHk0alRFRktpUXZPVVE?oc=5
