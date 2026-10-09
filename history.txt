@@ -1935,3 +1935,11 @@ https://opentelemetry.io/blog/2026/community-awards/
 https://www.reddit.com/r/googlecloud/comments/1x07pzi/run_hunt_hack_join_the_cloud_run_hackathon_on/
 https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGIwWEVPQlUyNjNNYi1lQXg4QVVzZmpIaEhjWm9nbUw5OVIxNkVNTVhqUGpEcEZTVllJYzdYMVZleGZlNTJiMUlnU0Item1pd2ZwQm4yWVRjZkJIekVUVHdyYmZTSnhGZUs4b0ZHSHdGTDFGeGF6SklCV084WlhYUmZXNi1BMlJBZ2hBVEFJMFRRZWxLNTJydGtrc2J1WDJPbGkwY3hWWjRVLVBUWlNjcw?oc=5
 https://news.google.com/rss/articles/CBMirAFBVV95cUxQdUUzUXV6RHhSZnVZeWJyVk5LZko5czhfUmRlNlZRY1pSWVdKejBkdnZvbzk1WlVUYUdVcU1leXVyOGx0Q2Zuc05MTk5xQUxaUk1rcllXWDM2M1d3dkdlWnBrMHVmcnp2MUlaVmZPeHBnV2tXMlh1QmN0VXF4YVZ4djczYkdBUzhHY3pOQjQ3OG95ZWJWR1g4N2pKYUREZmRpWTZXZzJfeFUxdk1x?oc=5
+https://www.cncf.io/blog/2026/10/09/who-owns-nis2-and-dora-on-a-kubernetes-platform-team/
+https://www.cncf.io/blog/2026/10/08/dont-give-ai-agents-root-make-them-propose-the-next-system-state/
+https://github.com/vllm-project/vllm/releases/tag/proto-v0.5.0
+https://opentelemetry.io/blog/2026/otel-native-by-design/
+https://www.reddit.com/r/googlecloud/comments/1x0syr8/troubleshoot_cloud_run_with_ssh/
+https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcmVwOHprNnlWT3VuUXNiWUdKUjY1WlE2MjdUQnY4QkNMWkRqMEdDU0IyaWw0RVFMQjFFSmJfdEZGVnBEZkNRalZSLXE3SUlVNXd3ZGxQelJSb0pwRUhGaW1EQ1NpYmk4U2ZKMEZULTNRYnZPLVZEdldkS29lLTVodzhJSzZXSzll?oc=5
+https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmRZb0hqWUVKRjhiRkwtQmxpaHNZVDZXSmJja3V6aFJkRkJRTTVkQ2Q5Z1ZmdGFCS2M1VnU3WnR0aklBUjRUdG1OUE84Y3VScDJ5bnE2SHRQUWVla19JQkNnczAtY1RkWEx4WmdKdzNmTnZtYW9KbHhLZ0RHQkg4eS1XejFJaGRLUW5KWElnZUEzWURhZ3BaN0J3?oc=5
+https://news.google.com/rss/articles/CBMiW0FVX3lxTE1teUlpOFNfNE1vWlhCN0Yycm9mcU93cW8xQ3d6d0NPVm9HR3lUQUFRblpfejI1Z0xrdmN4WTlBODItR2ZkdE9waHpQd2pUSm85VDNna1VZbnd0VVU?oc=5
