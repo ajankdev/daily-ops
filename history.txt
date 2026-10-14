@@ -1956,3 +1956,14 @@ https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HRDNEUjhycEd6WDN3d2VfNmRTU1p
 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JR0t2T09VcTRwSkpFMFFlamMyRmNhczBjRzc3TnJOMGNzQ1F5Y0NkYUNMN1lrQ213WkQzemF1UktDdnp3MlY0TEQtdTBDOUpSS2FWM1hOUWQwQ1k?oc=5
 https://cloud.google.com/blog/products/devops-sre/sre-book-second-edition/
 https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc0
+https://github.com/hashicorp/terraform-provider-google/releases/tag/v8.7.0
+https://github.com/GoogleCloudPlatform/k8s-config-connector/releases/tag/v1.159.0
+https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic
+https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/
+https://deepmind.google/blog/gemini-4-argon-for-robotics/
+https://deepmind.google/blog/introducing-gemini-4-argon/
+https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b
+https://www.reddit.com/r/googlecloud/comments/1x4vpsc/not_a_leaked_api_key_13_foreign_projects_were/
+https://news.google.com/rss/articles/CBMikgFBVV95cUxNbjN0cXU4Ym1CaEJQQW4xTEZMaVBncFdPLW9QWmdoN0hTWE1rZ29xZXhDX3NCQXgxZUR3NVJLLTlQVmNIYXhmNGo5NHhETm5RYkNEeGdETmEwSGFIaHVQMHNudXpha0k5MmV4QVhlc1Zyal9PSm1sajUtcU1OTFE2cmZyVDVGZDNKUjdyemwybi1DQQ?oc=5
+https://news.google.com/rss/articles/CBMivwFBVV95cUxPV3o1TUlaUmJyaTVfZTlpeVBlVVVRNEJiRjFaTC15VFd3S0NFWDFLX3hhb1dqNWd3QU54S01XamlycUg5eThndDNFd2tzY1d3bld5SThibXk0YjJGNHFLcmxUU3FBTms1Qmg2QnpocWZILWRFQ09TSzdObGVNdnpxTUpsbFNLeVMzVnNvQ3N0OS1Ybjd2dTVONDJxRl9nSk9DcDhxUFdKZkU0dmt3d0V2a0w4YXE1TF9NNnJIWjZFSQ?oc=5
+https://news.google.com/rss/articles/CBMipgFBVV95cUxNTmVDZUJTTnFNVFh0ekMtQ2NRREpMaU5rWDR0LVdCRnp1dnNSRU1KZnZQN3gxYjJrX1kwdElyam5tNGRMb3ZhalZ6UC1pRy1JLXVNSmwyNzViV19RVXRsck5haDY3UjlEcE1GTWV2Z1M3VkJqRDZydENyLUpjeXlLUkxIa3Qydi1tOWc2WVpmNm1ma0FNQ3Nmeko1elc2cW9yTFBCMjFB?oc=5
